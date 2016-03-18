@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BBVAIndexerWinForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LUISAppID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">62690d1a-2574-4739-8d66-e2fdfc4adde1</Value>
+    </Setting>
+    <Setting Name="LUISKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0fc0fa6f97604d12ab9f5fa276f01fe4</Value>
+    </Setting>
+    <Setting Name="IndexedFilesStorageAccountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">jmmmediaservicesstorage</Value>
+    </Setting>
+    <Setting Name="IndexedFilesStorageAccountKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VpmaM9avmqz7zYr/CCtMUndgZserSIE26sYRS/IqInzlPC03KW9BR+DHIOGV/AOPYxZMnTMSOtf1jOojs8OS/Q==</Value>
+    </Setting>
+    <Setting Name="IndexedFilesExtension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">json</Value>
+    </Setting>
+    <Setting Name="VerboseLogging" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LUISMaxCharacters" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">400</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
