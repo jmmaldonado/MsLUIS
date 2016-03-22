@@ -107,5 +107,197 @@ namespace BBVAIndexerWinForm.Properties {
                 this["LUISMaxCharacters"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool removeNONEIntent {
+            get {
+                return ((bool)(this["removeNONEIntent"]));
+            }
+            set {
+                this["removeNONEIntent"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("bbvaintents")]
+        public string eventhubForIntents {
+            get {
+                return ((string)(this["eventhubForIntents"]));
+            }
+            set {
+                this["eventhubForIntents"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("TVGfCQNuX04Q8D+2UPEryTYBQURmKJtF06rTOwt97IY=")]
+        public string eventhubForIntentsKey {
+            get {
+                return ((string)(this["eventhubForIntentsKey"]));
+            }
+            set {
+                this["eventhubForIntentsKey"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("winformApp")]
+        public string eventhubForIntentsSASPolicyName {
+            get {
+                return ((string)(this["eventhubForIntentsSASPolicyName"]));
+            }
+            set {
+                this["eventhubForIntentsSASPolicyName"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("bbvaeventhub-ns.servicebus.windows.net")]
+        public string servicebusNamespace {
+            get {
+                return ((string)(this["servicebusNamespace"]));
+            }
+            set {
+                this["servicebusNamespace"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("bbvaentities")]
+        public string eventhubForEntities {
+            get {
+                return ((string)(this["eventhubForEntities"]));
+            }
+            set {
+                this["eventhubForEntities"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("HoQzy75ba9N8bWjD2niwMIgTHCUhj1pWaQCNaX7nvwA=")]
+        public string eventhubForEntitiesKey {
+            get {
+                return ((string)(this["eventhubForEntitiesKey"]));
+            }
+            set {
+                this["eventhubForEntitiesKey"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("winformApp")]
+        public string eventhubForEntitiesSASPolicyName {
+            get {
+                return ((string)(this["eventhubForEntitiesSASPolicyName"]));
+            }
+            set {
+                this["eventhubForEntitiesSASPolicyName"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("pOvJouTkgqPNOfokSHln2cy1NU6X5zMKXKBNP6VmKwI=")]
+        public string sentimentAnalysisAPIKey {
+            get {
+                return ((string)(this["sentimentAnalysisAPIKey"]));
+            }
+            set {
+                this["sentimentAnalysisAPIKey"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("1900")]
+        public int sentimentAnalysisAPIMaxQuerySize {
+            get {
+                return ((int)(this["sentimentAnalysisAPIMaxQuerySize"]));
+            }
+            set {
+                this["sentimentAnalysisAPIMaxQuerySize"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://api.datamarket.azure.com/")]
+        public string sentimentAnalysisAPIServiceBaseUri {
+            get {
+                return ((string)(this["sentimentAnalysisAPIServiceBaseUri"]));
+            }
+            set {
+                this["sentimentAnalysisAPIServiceBaseUri"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("data.ashx/amla/text-analytics/v1/GetSentiment?Text=")]
+        public string sentimentAnalysisAPIEndpoint {
+            get {
+                return ((string)(this["sentimentAnalysisAPIEndpoint"]));
+            }
+            set {
+                this["sentimentAnalysisAPIEndpoint"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute(@"hipoteca, tarjeta, préstamo, suelo, crédito, tae, euribor, cartilla, cuenta, saldo, debito, transferencia, plan de pensiones, ahorro, fondo, seguro, inversión, acción, acciones, banca, vivienda, casa, cajero, oficina, pin, renting, bloqueo, bloqueada, asesor, finanza, patrimonio, dinero, pasta, nomina, regalo, cuenta corriente, comisiones, gastos, clausula, efectivo, cambio, intereses, dólares, euro, dólar, pagaré, cheque, giro, traspaso, liquidación, cartera, online, operativa, activar, movil, recarga, dividendos, cobro, pago, recibo, plazo, gestion, gestiones, plazos, cobros, pagos, impuestos, impuesto, sucursal, director, directora, directores, directoras, servicio, servicios, inmueble")]
+        public string diccionarioBancario {
+            get {
+                return ((string)(this["diccionarioBancario"]));
+            }
+            set {
+                this["diccionarioBancario"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Diccionario Financiero.txt")]
+        public string diccionarioFinancieroPath {
+            get {
+                return ((string)(this["diccionarioFinancieroPath"]));
+            }
+            set {
+                this["diccionarioFinancieroPath"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Palabras Inutiles.txt")]
+        public string palabrasInutilesPath {
+            get {
+                return ((string)(this["palabrasInutilesPath"]));
+            }
+            set {
+                this["palabrasInutilesPath"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
+        public bool activarEnviosAServiceBus {
+            get {
+                return ((bool)(this["activarEnviosAServiceBus"]));
+            }
+            set {
+                this["activarEnviosAServiceBus"] = value;
+            }
+        }
     }
 }

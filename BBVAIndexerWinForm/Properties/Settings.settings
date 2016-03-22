@@ -23,5 +23,53 @@
     <Setting Name="LUISMaxCharacters" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">400</Value>
     </Setting>
+    <Setting Name="removeNONEIntent" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eventhubForIntents" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bbvaintents</Value>
+    </Setting>
+    <Setting Name="eventhubForIntentsKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TVGfCQNuX04Q8D+2UPEryTYBQURmKJtF06rTOwt97IY=</Value>
+    </Setting>
+    <Setting Name="eventhubForIntentsSASPolicyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">winformApp</Value>
+    </Setting>
+    <Setting Name="servicebusNamespace" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bbvaeventhub-ns.servicebus.windows.net</Value>
+    </Setting>
+    <Setting Name="eventhubForEntities" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bbvaentities</Value>
+    </Setting>
+    <Setting Name="eventhubForEntitiesKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HoQzy75ba9N8bWjD2niwMIgTHCUhj1pWaQCNaX7nvwA=</Value>
+    </Setting>
+    <Setting Name="eventhubForEntitiesSASPolicyName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">winformApp</Value>
+    </Setting>
+    <Setting Name="sentimentAnalysisAPIKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pOvJouTkgqPNOfokSHln2cy1NU6X5zMKXKBNP6VmKwI=</Value>
+    </Setting>
+    <Setting Name="sentimentAnalysisAPIMaxQuerySize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1900</Value>
+    </Setting>
+    <Setting Name="sentimentAnalysisAPIServiceBaseUri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.datamarket.azure.com/</Value>
+    </Setting>
+    <Setting Name="sentimentAnalysisAPIEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">data.ashx/amla/text-analytics/v1/GetSentiment?Text=</Value>
+    </Setting>
+    <Setting Name="diccionarioBancario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hipoteca, tarjeta, préstamo, suelo, crédito, tae, euribor, cartilla, cuenta, saldo, debito, transferencia, plan de pensiones, ahorro, fondo, seguro, inversión, acción, acciones, banca, vivienda, casa, cajero, oficina, pin, renting, bloqueo, bloqueada, asesor, finanza, patrimonio, dinero, pasta, nomina, regalo, cuenta corriente, comisiones, gastos, clausula, efectivo, cambio, intereses, dólares, euro, dólar, pagaré, cheque, giro, traspaso, liquidación, cartera, online, operativa, activar, movil, recarga, dividendos, cobro, pago, recibo, plazo, gestion, gestiones, plazos, cobros, pagos, impuestos, impuesto, sucursal, director, directora, directores, directoras, servicio, servicios, inmueble</Value>
+    </Setting>
+    <Setting Name="diccionarioFinancieroPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Diccionario Financiero.txt</Value>
+    </Setting>
+    <Setting Name="palabrasInutilesPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Palabras Inutiles.txt</Value>
+    </Setting>
+    <Setting Name="activarEnviosAServiceBus" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

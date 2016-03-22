@@ -1,0 +1,62 @@
+﻿Queries para el job de Stream Analytics
+
+
+
+
+REQUIREMENTS:
+	INPUTS:
+		bbvaeventhub - eventhub		<-- In this event hub we will send all the events with the plain LUIS response
+		bbvaintents - eventhub		<-- In this event hub we will send all the events with the customized IntentsPowerBi object type
+		bbvaentities - eventhub		<-- In this event hub we will send all the events with the customized EntitiesPowerBi object type
+
+	OUTPUTS:
+		bbvaindexer - PowerBi		<-- PowerBi output for the plain LUIS response
+		bbvapbiintents - PowerBI	<-- PowerBi output for the IntentsPowerBi type of events
+		bbvapbientities - PowerBI	<-- PowerBi output for the EntitiesPowerBi type of events
+		bbvaindexerblob - blob		<-- storage account to put in blob format the plain LUIS responses after being processed by Stream Analytics (only used for debugging)
+
+
+
+
+
+
+QUERY TO PUT PLAIN LUIS RESPONSES IN BLOB OUTPUT
+================================================
+
+select
+    event.EventEnqueuedUtcTime as EnqueueTime, event.query, inte.ArrayValue.intent, inte.ArrayValue.score as intentScore, enti.ArrayValue.entity, enti.ArrayValue.type as entityType, enti.ArrayValue.score as entityScore 
+into bbvaindexerblob
+from bbvaeventhub as event
+cross apply GetArrayElements(event.intents) as inte
+cross apply GetArrayElements(event.entities) as enti
+
+
+
+QUERY TO PUT PLAIN LUIS RESPONSES IN PowerBI
+============================================
+
+select
+    event.EventEnqueuedUtcTime as EnqueueTime, event.query, inte.ArrayValue.intent, inte.ArrayValue.score as intentScore, enti.ArrayValue.entity, enti.ArrayValue.type as entityType, enti.ArrayValue.score as entityScore 
+into bbvaindexer
+from bbvaeventhub as event
+cross apply GetArrayElements(event.intents) as inte
+cross apply GetArrayElements(event.entities) as enti
+
+
+
+QUERY TO PUT IntentsPowerBI EVENTS IN ITS OUTPUT
+================================================
+select
+    *
+into bbvapbiintents
+from bbvaintents
+
+
+
+QUERY TO PUT EntitiesPowerBI EVENTS IN ITS OUTPUT
+=================================================
+select
+    event.EventEnqueuedUtcTime as EnqueueTime, event.query, event.queryKeywords, event.financialKeywords, event.sentiment, event.eventGUID, enti.ArrayValue.entity, enti.ArrayValue.type as entityType, enti.ArrayValue.score as entityScore, event.ProcessedDateTime, event.processedYear, event.processedMonth, event.processedDay, event.processedHour, event.processedMinute, event.processedSecond
+into bbvapbientities
+from bbvaentities as event
+cross apply GetArrayElements(event.entities) as enti
