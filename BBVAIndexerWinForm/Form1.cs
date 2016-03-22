@@ -95,6 +95,7 @@ namespace BBVAIndexerWinForm {
 
                 rellenaListaFicheros();
             }
+
         }
 
 
@@ -107,7 +108,8 @@ namespace BBVAIndexerWinForm {
 
 
         private void botGo_Click(object sender, EventArgs e) {
-
+            
+            /*
             if (listFiles.SelectedItem != null) {
                 XMLDoc.Load(_listaFicheros[listFiles.SelectedIndex]);
                 //XDoc = XDocument.Load(_listaFicheros[listFiles.SelectedIndex]);
@@ -115,9 +117,10 @@ namespace BBVAIndexerWinForm {
                 logOperation("Leyendo fichero TTML", XMLDoc.InnerXml.ToString());
 
                 logOperation("Obteniendo Full Text", getTTMLFullText(XMLDoc));
-            }
+            }*/
 
             
+                        
 
         }
 
@@ -202,7 +205,7 @@ namespace BBVAIndexerWinForm {
 
 
 
-
+        
 
 
         
@@ -318,6 +321,31 @@ namespace BBVAIndexerWinForm {
 
                 return result;
             } catch (Exception ex) { logOperation("[ERROR] Error en getFinancialKeywordsFromQuery", ex.Message); return ""; }
+        }
+
+
+
+
+        private string[] getFinancialKeywordsFromQueryAsArray(string query) {
+            List<string> lista = new List<string>();
+            try {
+                updateStatus("Obtaining financial keywords from query as array");
+                string result = "";
+                string[] temp = query.Split(' ');
+                
+
+                //Busqueda de cada uno de los términos de la query contra el diccionario financiero
+                foreach (string palabra in temp)
+                    if (diccionarioFinanciero.Contains(palabra))
+                        lista.Add(palabra);
+
+
+                logOperation("Analisis financiero de la query", "Obtenidos " + lista.Count + " terminos financieros en la query");
+                if (_verbose) logOperation("[VERBOSE] Keywords financieros encontrados en la query", result);
+                updateStatus("Finished obtaining financial keywords from query as array");
+
+                return lista.ToArray();
+            } catch (Exception ex) { logOperation("[ERROR] Error en getFinancialKeywordsFromQueryAsArray", ex.Message); return lista.ToArray(); }
         }
 
 
@@ -723,14 +751,21 @@ namespace BBVAIndexerWinForm {
 
                                     //Obtener los terminos financieros de la query
                                     string financialKeywords = getFinancialKeywordsFromQuery(luisResponse.query);
+                                    string[] financialKeywordsArray = getFinancialKeywordsFromQueryAsArray(luisResponse.query);
 
 
                                     //ToDo Separar la respuesta de LUIS en los objetos IntentsPowerBi y EntitiesPowerBi. Cuando esté hecho quitar la llamada a EnviarMensajeAServiceBus
                                     string eventGuid = new Guid().ToString();
                                     DateTime dt = DateTime.Now;
                                     IntentsPowerBi iPBi = getPowerBIIntentsFromLuisResponse(luisResponse, eventGuid, dt, sentiment, cleanQuery, financialKeywords);
+                                    
+                                    //Añadido a mano para ver si funciona...
+                                    iPBi.financialKeywordsArray = financialKeywordsArray;
+
                                     EntitiesPowerBi ePBi = getPowerBiEntitiesFromLuisResponse(luisResponse, eventGuid, dt, sentiment, cleanQuery, financialKeywords);
 
+
+                                    addResultsToTreeViewNode(blob.Uri.Segments.Last(), iPBi, ePBi);
 
                                     //Envio de los datos a los Service Bus para cada tipo de objeto
                                     if (_envioActivado) {
@@ -974,7 +1009,38 @@ namespace BBVAIndexerWinForm {
 
 
 
+        delegate void addResultsToTreeViewNodeDelegate(string filename, IntentsPowerBi iPBi, EntitiesPowerBi ePBi);
+        private void addResultsToTreeViewNode(string filename, IntentsPowerBi iPBi, EntitiesPowerBi ePBi) {
+            if (!InvokeRequired) {
+                TreeNode tn = new TreeNode(filename);
+                TreeNode entityNode = new TreeNode("Entities");
+                TreeNode financialNode = new TreeNode("Financial Keywords");
 
+                tn.Nodes.Add(new TreeNode("Sentiment: " + iPBi.sentiment));
+                tn.Nodes.Add(new TreeNode("Intent: " + iPBi.intent));
+
+                TreeNode cn;
+                foreach (Entities entity in ePBi.entities) {
+                    cn = new TreeNode(entity.type + " - " + entity.entity + " (" + entity.score + ")");
+                    entityNode.Nodes.Add(cn);
+                }
+
+                foreach (string kw in iPBi.financialKeywordsArray.Distinct()) {
+                    cn = new TreeNode(kw);
+                    financialNode.Nodes.Add(cn);
+                }
+
+                tn.Nodes.Add(entityNode);
+                tn.Nodes.Add(financialNode);
+
+
+                treeView.Nodes.Add(tn);
+            }
+            else {
+        addResultsToTreeViewNodeDelegate atD = new addResultsToTreeViewNodeDelegate(addResultsToTreeViewNode);
+        this.Invoke(atD, new object[] { filename, iPBi, ePBi });
+            }
+        }
 
 
 

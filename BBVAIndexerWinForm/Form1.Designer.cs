@@ -34,17 +34,17 @@
             this.textSelectedFolder = new System.Windows.Forms.TextBox();
             this.textLog = new System.Windows.Forms.TextBox();
             this.botTestReadFromBlob = new System.Windows.Forms.Button();
-            this.progressBar = new System.Windows.Forms.ProgressBar();
             this.botTestJSON2 = new System.Windows.Forms.Button();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
-            this.statusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.statusProgress = new System.Windows.Forms.ToolStripProgressBar();
+            this.statusLabel = new System.Windows.Forms.ToolStripStatusLabel();
+            this.treeView = new System.Windows.Forms.TreeView();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // botSelectFolders
             // 
-            this.botSelectFolders.Location = new System.Drawing.Point(304, 12);
+            this.botSelectFolders.Location = new System.Drawing.Point(304, 340);
             this.botSelectFolders.Name = "botSelectFolders";
             this.botSelectFolders.Size = new System.Drawing.Size(23, 20);
             this.botSelectFolders.TabIndex = 0;
@@ -56,9 +56,9 @@
             // 
             this.listFiles.FormattingEnabled = true;
             this.listFiles.HorizontalScrollbar = true;
-            this.listFiles.Location = new System.Drawing.Point(12, 41);
+            this.listFiles.Location = new System.Drawing.Point(12, 366);
             this.listFiles.Name = "listFiles";
-            this.listFiles.Size = new System.Drawing.Size(315, 420);
+            this.listFiles.Size = new System.Drawing.Size(315, 95);
             this.listFiles.TabIndex = 1;
             // 
             // botGo
@@ -92,7 +92,7 @@
             // 
             // textSelectedFolder
             // 
-            this.textSelectedFolder.Location = new System.Drawing.Point(12, 12);
+            this.textSelectedFolder.Location = new System.Drawing.Point(12, 340);
             this.textSelectedFolder.Name = "textSelectedFolder";
             this.textSelectedFolder.Size = new System.Drawing.Size(286, 20);
             this.textSelectedFolder.TabIndex = 5;
@@ -102,11 +102,11 @@
             this.textLog.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.textLog.Location = new System.Drawing.Point(346, 41);
+            this.textLog.Location = new System.Drawing.Point(346, 12);
             this.textLog.Multiline = true;
             this.textLog.Name = "textLog";
             this.textLog.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.textLog.Size = new System.Drawing.Size(524, 478);
+            this.textLog.Size = new System.Drawing.Size(524, 507);
             this.textLog.TabIndex = 6;
             // 
             // botTestReadFromBlob
@@ -118,15 +118,6 @@
             this.botTestReadFromBlob.Text = "Process all indexed files";
             this.botTestReadFromBlob.UseVisualStyleBackColor = true;
             this.botTestReadFromBlob.Click += new System.EventHandler(this.botTestReadFromBlob_Click);
-            // 
-            // progressBar
-            // 
-            this.progressBar.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.progressBar.Location = new System.Drawing.Point(346, 12);
-            this.progressBar.Name = "progressBar";
-            this.progressBar.Size = new System.Drawing.Size(524, 20);
-            this.progressBar.TabIndex = 8;
             // 
             // botTestJSON2
             // 
@@ -150,25 +141,32 @@
             this.statusStrip1.TabIndex = 10;
             this.statusStrip1.Text = "statusStrip1";
             // 
+            // statusProgress
+            // 
+            this.statusProgress.Name = "statusProgress";
+            this.statusProgress.Size = new System.Drawing.Size(100, 16);
+            // 
             // statusLabel
             // 
             this.statusLabel.Name = "statusLabel";
             this.statusLabel.Size = new System.Drawing.Size(66, 17);
             this.statusLabel.Text = "statusLabel";
             // 
-            // statusProgress
+            // treeView
             // 
-            this.statusProgress.Name = "statusProgress";
-            this.statusProgress.Size = new System.Drawing.Size(100, 16);
+            this.treeView.Location = new System.Drawing.Point(12, 12);
+            this.treeView.Name = "treeView";
+            this.treeView.Size = new System.Drawing.Size(315, 322);
+            this.treeView.TabIndex = 11;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(882, 556);
+            this.Controls.Add(this.treeView);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.botTestJSON2);
-            this.Controls.Add(this.progressBar);
             this.Controls.Add(this.botTestReadFromBlob);
             this.Controls.Add(this.textLog);
             this.Controls.Add(this.textSelectedFolder);
@@ -197,11 +195,11 @@
         private System.Windows.Forms.TextBox textSelectedFolder;
         private System.Windows.Forms.TextBox textLog;
         private System.Windows.Forms.Button botTestReadFromBlob;
-        private System.Windows.Forms.ProgressBar progressBar;
         private System.Windows.Forms.Button botTestJSON2;
         private System.Windows.Forms.StatusStrip statusStrip1;
         private System.Windows.Forms.ToolStripStatusLabel statusLabel;
         private System.Windows.Forms.ToolStripProgressBar statusProgress;
+        private System.Windows.Forms.TreeView treeView;
     }
 }
 

@@ -51,6 +51,16 @@ select
 into bbvapbiintents
 from bbvaintents
 
+//Si queremos sacar cada financial keyword por separado la query deberia ser:
+select
+    event.EventEnqueuedUtcTime as EnqueueTime, event.query, event.queryKeywords, event.financialKeywords, inte.ArrayValue as financialKeyword, event.intent, event.score, event.sentiment, event.ProcessedDateTime, event.processedYear, event.processedMonth, event.processedDay, event.processedHour, 
+event.processedMinute, event.processedSecond
+into bbvapbiintents
+from bbvaintents as event
+cross apply GetArrayElements(event.financialKeywordsArray) as 
+
+
+
 
 
 QUERY TO PUT EntitiesPowerBI EVENTS IN ITS OUTPUT

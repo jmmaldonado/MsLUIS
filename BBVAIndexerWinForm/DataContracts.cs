@@ -72,6 +72,9 @@ namespace BBVAIndexerWinForm {
         public string financialKeywords;
 
         [System.Runtime.Serialization.DataMemberAttribute()]
+        public string[] financialKeywordsArray;
+
+        [System.Runtime.Serialization.DataMemberAttribute()]
         public string intent;
 
         [System.Runtime.Serialization.DataMemberAttribute()]
