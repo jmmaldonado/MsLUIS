@@ -108,7 +108,7 @@ namespace BBVAIndexerWinForm {
 
 
         private void botGo_Click(object sender, EventArgs e) {
-            
+
             /*
             if (listFiles.SelectedItem != null) {
                 XMLDoc.Load(_listaFicheros[listFiles.SelectedIndex]);
@@ -119,8 +119,18 @@ namespace BBVAIndexerWinForm {
                 logOperation("Obteniendo Full Text", getTTMLFullText(XMLDoc));
             }*/
 
+
+            List<string> listFicheros = new List<string>();
+
+            if (listFiles.SelectedItem != null) {
+                foreach (object item in listFiles.SelectedItems)
+                    listFicheros.Add(item.ToString());
+            }
+
+            Thread localfilesThread = new Thread(() => processTextFilesFromLocalFolder(listFicheros.ToArray()));
+            localfilesThread.Start();
+
             
-                        
 
         }
 
@@ -132,6 +142,27 @@ namespace BBVAIndexerWinForm {
         ///////////////////////////////////////////////////////////
         // PRUEBAS
         ///////////////////////////////////////////////////////////
+
+
+
+
+        private void processTextFilesFromLocalFolder(string[] ficheros) {
+
+            string textoFichero;
+            StreamReader sr;
+            if (ficheros != null) {
+                foreach (string fichero in ficheros) {
+                    sr = new StreamReader(fichero);
+                    textoFichero = sr.ReadToEnd();
+                    processTextAndSendResultsToServiceBus(textoFichero, fichero);                    
+                }
+
+            }
+
+        }
+
+
+
 
 
         private void pruebaLlamadaJSON() {
@@ -448,8 +479,6 @@ namespace BBVAIndexerWinForm {
 
 
 
-
-
         /// <summary>
         /// A partir de un objeto LuisResponse generamos un objeto específico para los Intents del evento
         /// De todos los intentes, sólo se enviará el que mayor score haya tenido en el analisis de LUIS
@@ -522,9 +551,6 @@ namespace BBVAIndexerWinForm {
 
             return result;
         }
-
-
-
 
 
         private LUISResponse getLUISResultsAsObject(string text) {
@@ -732,50 +758,11 @@ namespace BBVAIndexerWinForm {
 
 
 
-
                             //Hacer las llamadas a LUIS, el propio método se encargará de hacer las particiones y agrupar los resultados fragmentados
-                            //TODO: Convertir el objeto LUISResponse en JSON para enviar al servicebus
-                            if (textoBlob != "") {
-                                LUISResponse luisResponse;
-                                luisResponse = makeLUISCallFromText(textoBlob);
-
-                                if (luisResponse != null) {
-                                    luisResponse.query = textoBlob; //Volvemos a poner el texto original para evitar el escaping que devuelve LUIS del formato unicode.
-                                    
-                                    //Obtener el sentimiento de la consulta enviada a LUIS
-                                    string sentimentQuery = luisResponse.query.Length > Properties.Settings.Default.sentimentAnalysisAPIMaxQuerySize ? luisResponse.query.Substring(0, Properties.Settings.Default.sentimentAnalysisAPIMaxQuerySize) : luisResponse.query;
-                                    double sentiment = getQuerySentiment(sentimentQuery);
-
-                                    //Limpiar la query de palabras Inutiles
-                                    string cleanQuery = cleanUselessWordsFromQuery(luisResponse.query);
-
-                                    //Obtener los terminos financieros de la query
-                                    string financialKeywords = getFinancialKeywordsFromQuery(luisResponse.query);
-                                    string[] financialKeywordsArray = getFinancialKeywordsFromQueryAsArray(luisResponse.query);
+                            if (textoBlob != "") 
+                                processTextAndSendResultsToServiceBus(textoBlob, blob.Uri.Segments.Last());
 
 
-                                    //ToDo Separar la respuesta de LUIS en los objetos IntentsPowerBi y EntitiesPowerBi. Cuando esté hecho quitar la llamada a EnviarMensajeAServiceBus
-                                    string eventGuid = new Guid().ToString();
-                                    DateTime dt = DateTime.Now;
-                                    IntentsPowerBi iPBi = getPowerBIIntentsFromLuisResponse(luisResponse, eventGuid, dt, sentiment, cleanQuery, financialKeywords);
-                                    
-                                    //Añadido a mano para ver si funciona...
-                                    iPBi.financialKeywordsArray = financialKeywordsArray;
-
-                                    EntitiesPowerBi ePBi = getPowerBiEntitiesFromLuisResponse(luisResponse, eventGuid, dt, sentiment, cleanQuery, financialKeywords);
-
-
-                                    addResultsToTreeViewNode(blob.Uri.Segments.Last(), iPBi, ePBi);
-
-                                    //Envio de los datos a los Service Bus para cada tipo de objeto
-                                    if (_envioActivado) {
-                                        EnviarMensajeAServiceBus(luisResponse);
-                                        EnviarIntentsPowerBiAServiceBus(iPBi);
-                                        EnviarEntitiesPowerBiAServiceBus(ePBi);
-                                    }
-                                }
-                            }
-    
 
 
                         }
@@ -791,6 +778,65 @@ namespace BBVAIndexerWinForm {
      
 
         }
+
+
+
+        /// <summary>
+        /// 1. Hay que llamarle con el texto que se quiere analizar, y un filename que identifique de dónde viene el texto
+        /// 2. Hace la llamada a LUIS para obtener sus intents y entities
+        /// 3. Obtiene el sentimiento del texto indexado
+        /// 4. Limpia el texto indexado de palabras inutiles
+        /// 5. Busca los términos financieros en el texto indexado
+        /// 6. Crea los objetos específicos para la representacion de Intents y Entities en PowerBI
+        /// 7. Envia todos los mensajes a los event hubs (respuesta tal cual de LUIS, objeto Intents para PowerBI y Objeto Entities para PowerBI)
+        /// </summary>
+        /// <param name="textoBlob"></param>
+        /// <param name="filename"></param>
+        private void processTextAndSendResultsToServiceBus(string textoBlob, string filename) {
+            LUISResponse luisResponse;
+            luisResponse = makeLUISCallFromText(textoBlob);
+
+            if (luisResponse != null) {
+                luisResponse.query = textoBlob; //Volvemos a poner el texto original para evitar el escaping que devuelve LUIS del formato unicode.
+
+                //Obtener el sentimiento de la consulta enviada a LUIS
+                string sentimentQuery = luisResponse.query.Length > Properties.Settings.Default.sentimentAnalysisAPIMaxQuerySize ? luisResponse.query.Substring(0, Properties.Settings.Default.sentimentAnalysisAPIMaxQuerySize) : luisResponse.query;
+                double sentiment = getQuerySentiment(sentimentQuery);
+
+                //Limpiar la query de palabras Inutiles
+                string cleanQuery = cleanUselessWordsFromQuery(luisResponse.query);
+
+                //Obtener los terminos financieros de la query
+                string financialKeywords = getFinancialKeywordsFromQuery(luisResponse.query);
+                string[] financialKeywordsArray = getFinancialKeywordsFromQueryAsArray(luisResponse.query);
+
+
+                //ToDo Separar la respuesta de LUIS en los objetos IntentsPowerBi y EntitiesPowerBi. Cuando esté hecho quitar la llamada a EnviarMensajeAServiceBus
+                string eventGuid = new Guid().ToString();
+                eventGuid = Guid.NewGuid().ToString();
+                DateTime dt = DateTime.Now;
+                IntentsPowerBi iPBi = getPowerBIIntentsFromLuisResponse(luisResponse, eventGuid, dt, sentiment, cleanQuery, financialKeywords);
+
+                //Añadido a mano para ver si funciona...
+                iPBi.financialKeywordsArray = financialKeywordsArray;
+
+                EntitiesPowerBi ePBi = getPowerBiEntitiesFromLuisResponse(luisResponse, eventGuid, dt, sentiment, cleanQuery, financialKeywords);
+
+
+                addResultsToTreeViewNode(filename, iPBi, ePBi);
+
+                //Envio de los datos a los Service Bus para cada tipo de objeto
+                if (_envioActivado) {
+                    EnviarMensajeAServiceBus(luisResponse);
+                    EnviarIntentsPowerBiAServiceBus(iPBi);
+                    EnviarEntitiesPowerBiAServiceBus(ePBi);
+                }
+            }
+        }
+
+
+
+
 
         
 

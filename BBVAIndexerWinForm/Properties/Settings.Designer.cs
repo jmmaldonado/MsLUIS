@@ -25,7 +25,7 @@ namespace BBVAIndexerWinForm.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("62690d1a-2574-4739-8d66-e2fdfc4adde1")]
+        [global::System.Configuration.DefaultSettingValueAttribute("fda01df0-6bf5-4432-af0f-e9b2c7ead44e")]
         public string LUISAppID {
             get {
                 return ((string)(this["LUISAppID"]));
@@ -290,7 +290,7 @@ namespace BBVAIndexerWinForm.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        [global::System.Configuration.DefaultSettingValueAttribute("True")]
         public bool activarEnviosAServiceBus {
             get {
                 return ((bool)(this["activarEnviosAServiceBus"]));
