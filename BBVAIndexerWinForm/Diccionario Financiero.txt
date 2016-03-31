@@ -1,72 +1,72 @@
 AAA
-abandonar una opción
+abandonar una opcion
 abastecer
 abonar
-abonaré
+abonare
 abrazo del oso
 abrir una cuenta
 abrogar
 absentista
-absorción
-abuso de posición dominante
+absorcion
+abuso de posicion dominante
 acaparamiento
 acaparar
 accidente
-acción
-acción al portador
-acción amortizable
-acción antigua
+accion
+accion al portador
+accion amortizable
+accion antigua
 accionariado
-acción cambiaria
-acción cambiaria directa
-acción común
-acción con liquidez
-acción con prima
-acción con valor nominal
-acción convertible
-acción con voto limitado
-acción de cuota
-acción de goce
-acción de gracia
-acción de libre suscripción
-acción de oro
-acción de regreso
-acción desembolsada
-acción de voto limitado
-acción de voto plural
-acción directa
-acción en cartera
-acción endosada
-acción en tesorería
+accion cambiaria
+accion cambiaria directa
+accion comun
+accion con liquidez
+accion con prima
+accion con nominal
+accion convertible
+accion con voto limitado
+accion de cuota
+accion de goce
+accion de gracia
+accion de libre suscripcion
+accion de oro
+accion de regreso
+accion desembolsada
+accion de voto limitado
+accion de voto plural
+accion directa
+accion en cartera
+accion endosada
+accion en tesoreria
 acciones de disfrute
-acciones ordinarias de emisión condicionada
+acciones ordinarias de emision condicionada
 acciones propias en cartera
-acción garantizada
-acción gratuita
+accion garantizada
+accion gratuita
 accionista
 accionista institucional
-acción liberada
-acción nominativa
-acción nueva
-acción ordinaria
-acción ordinaria con potencial dilusivo
-acción ordinaria potencial
-acción parcialmente liberada
-acción preferente
-acción privilegiada
-acción readquirida
-acción retirada
-acción retornable
-acción sindicada
-acción sin valor nominal
-acción sin voto
-acción subyacente
-acción suscrita
-acción vieja
-acción volátil
-aceptación
-aceptación bancaria
-aceptación de un efecto mercantil
+accion liberada
+accion nominativa
+accion nueva
+accion ordinaria
+accion ordinaria con potencial dilusivo
+accion ordinaria potencial
+accion parcialmente liberada
+accion preferente
+accion privilegiada
+accion readquirida
+accion retirada
+accion retornable
+accion sindicada
+accion sin nominal
+accion sin voto
+accion subyacente
+accion suscrita
+accion vieja
+accion volatil
+aceptacion
+aceptacion bancaria
+aceptacion de un efecto mercantil
 aceptante
 aceptar
 acrecentamiento
@@ -74,7 +74,7 @@ acreditado
 acreditante
 acreditar
 acreditarse
-a crédito
+a credito
 acreedor
 acreedores diversos
 acreedores solidarios
@@ -83,13 +83,13 @@ acreedor preferente
 acreedor privilegiado
 acta
 acta constitutiva
-acta de cotización
+acta de cotizacion
 acta de transferencia
-activación de gastos
-actividad económica
-actividades de financiación
-actividades de inversión
-actividades de operación
+activacion de gastos
+actividad economica
+actividades de financiacion
+actividades de inversion
+actividades de operacion
 actividad financiera
 activo
 activo circulante
@@ -99,7 +99,7 @@ activo cualificado
 activo dudoso
 activo fijo
 activo financiero
-activo financiero al valor razonable con cambios en resultados
+activo financiero al razonable con cambios en resultados
 activo financiero mantenido para negociar
 activo intangible
 activo monetario
@@ -107,9 +107,9 @@ activo no corriente
 activo revertible
 activos adjudicados en pago de deuda
 activos bancarios
-activos biológicos
+activos biologicos
 activos comunes de la sociedad
-activos de exploración y evaluación
+activos de exploracion y evaluacion
 activos del plan de prestaciones a empleados
 activos del segmento
 activos derivados de contratos de seguros
@@ -119,61 +119,61 @@ activos financieros disponibles para la venta
 activos monetarios
 activos netos disponibles para el pago de prestaciones
 activos por impuestos diferidos
-activos poseídos por un fondo de prestaciones a largo plazo para los empleados
+activos poseidos por un fondo de prestaciones a largo plazo para los empleados
 activo subyacente
-acto jurídico
-actualización
-actualización de los márgenes como en las opciones
-actualización de los márgenes como en los futuros
+acto juridico
+actualizacion
+actualizacion de los margenes como en las opciones
+actualizacion de los margenes como en los futuros
 actuario de seguros
 a cuenta
-acuerdo a futuro sobre tipos de interés
-acuerdo condicionado de emisión de acciones
+acuerdo a futuro sobre tipos de interes
+acuerdo condicionado de emision de acciones
 Acuerdo de Basilea II
-acuerdo de compensación entre bancos centrales
+acuerdo de compensacion entre bancos centrales
 acuerdo de derecho de giro
-acuerdo de interés futuro
+acuerdo de interes futuro
 acuerdo de pagos basados en acciones
-acuerdo maestro de compensación
+acuerdo maestro de compensacion
 acuerdo marco general
-acuerdo para el reparto de pérdidas
-acumulación de capital
+acuerdo para el reparto de perdidas
+acumulacion de capital
 acumulativo
-acuñación
+acuñacion
 acuñar
-adecuación del capital
+adecuacion del capital
 adeudar
 adeudo
 adeudo directo
 adherente
 adjudicatario
-administración publica paraestatal
+administracion publica paraestatal
 administrador fiduciario
 administrar
-admisión a cotización
+admision a cotizacion
 adquirente
-adquisición
-adquisición con cargo a la parte que incumple
-adquisición inversa
-adquisición temporal de activos
+adquisicion
+adquisicion con cargo a la parte que incumple
+adquisicion inversa
+adquisicion temporal de activos
 ADR
 ADS
 aduana
 ad valorem
 AEB
 a fecha fija
-affidávit
+affidavit
 afianzamiento
 afianzar
 aflorar
 agencia de Bolsa
-agencia de calificación
-Agencia Estatal de la Administración Tributaria
+agencia de calificacion
+Agencia Estatal de la Administracion Tributaria
 Agencia Tributaria
 agente comercial
 agente de cambio y bolsa
 agente de seguros
-agentes económicos
+agentes economicos
 agio
 agiotaje
 agiotista
@@ -194,93 +194,93 @@ ajustes por experiencia
 ajustes por riesgo
 ajuste temporal
 a la baja
-a la ejecución
+a la ejecucion
 al alza
 a la orden
 a la par
 a la vista
-albarán
+albaran
 alcista
 al contado
 al descuento
-alícuota
-almacén fiscal
-almacén general de depósito
+alicuota
+almacen fiscal
+almacen general de deposito
 al mejor cambio
 almoneda
 al portador
 Alternative Investment Market (AIM)
 alza
-ámbito de competencia
+ambito de competencia
 American Stock Exchange (AMEX)
-amortización
-amortización de acciones
-amortización de deuda pública
-amortización degresiva
+amortizacion
+amortizacion de acciones
+amortizacion de deuda publica
+amortizacion degresiva
 amortizar
 amparo
-ampliación a la par
-ampliación con prima de emisión
-ampliación de capital
-ampliación de coberturas
-ampliación de la línea de crédito
-ampliación liberada
-análisis bursátil
-análisis coste/beneficio
-análisis de balance
-análisis de crédito
-análisis de riesgos
-análisis de valores
-análisis financiero
-análisis fundamental
-análisis gráfico
-análisis técnico
-ángel caído
-anotación en cuenta
+ampliacion a la par
+ampliacion con prima de emision
+ampliacion de capital
+ampliacion de coberturas
+ampliacion de la linea de credito
+ampliacion liberada
+analisis bursatil
+analisis coste/beneficio
+analisis de balance
+analisis de credito
+analisis de riesgos
+analisis de valores
+analisis financiero
+analisis fundamental
+analisis grafico
+analisis tecnico
+angel caido
+anotacion en cuenta
 anticipo
 anticipos a proveedores
-antidilución
+antidilucion
 antigüedad de cuentas por cobrar
 anualidad
 anualidad prorrogable
 anualidad temporal
 anualidad vitalicia
-anulación de póliza
+anulacion de poliza
 anular
 apalancamiento
 apalancamiento financiero
 apalancamiento negativo
 aparato productivo
-apertura de crédito
+apertura de credito
 apertura de cuenta
-apertura económica
+apertura economica
 aplazamiento de pago
 a plazo fijo
 aplicaciones
-aplicación prospectiva
-aplicación retroactiva
+aplicacion prospectiva
+aplicacion retroactiva
 aportaciones
 aportaciones a la Seguridad Social
 aportaciones de capital
-aportación facultativa
-aportación periódica
-aportación voluntaria
-apreciación
+aportacion facultativa
+aportacion periodica
+aportacion voluntaria
+apreciacion
 apunte en cuenta
 arancel
 arbitraje
 arbitraje al contado
-arbitraje a término
-arbitraje bursátil
+arbitraje a termino
+arbitraje bursatil
 arbitraje convertible
 arbitraje de acciones y cupones
 arbitraje de capital
 arbitraje de cartera
 arbitraje financiero
 arbitrajista
-área de acumulación
-área de libre de comercio
-área monetaria
+area de acumulacion
+area de libre de comercio
+area monetaria
 arrendador
 arrendadora financiera
 arrendamiento
@@ -298,47 +298,47 @@ aseguradora
 aseguramiento
 aseguramiento de bienes litigiosos
 asesor de inversiones
-asociación
-Asociación Española de Banca (AEB)
-Asociación Internacional de Fomento (AIF)
+asociacion
+Asociacion Española de Banca (AEB)
+Asociacion Internacional de Fomento (AIF)
 asociada
-atomización
+atomizacion
 at-the-money
 auditabilidad
 auditor
 auditor externo
-auditoría
-auditoría administrativa
-auditoría contable
-auditoría externa
-auditoría interna
-auditoría operacional
+auditoria
+auditoria administrativa
+auditoria contable
+auditoria externa
+auditoria interna
+auditoria operacional
 auditor interno
 auge
 aumento de prima
 ausencias compensadas acumulables
-autarquía
-autenticación
+autarquia
+autenticacion
 autenticar
-autocapitalización
+autocapitalizacion
 autocartera
-autofinanciación
-autogestión
+autofinanciacion
+autogestion
 autoridad fiscal
-autorregulación
+autorregulacion
 autoseguro
 aval
 avalar
 avalista
-avío
-aviso de rescisión
+avio
+aviso de rescision
 aviso de siniestro
 aviso de vencimiento
 a voluntad
 bache inflacionista
 back-office
 back test
-baja bursátil
+baja bursatil
 baja en cuentas de un instrumento financiero
 bajista
 bajo la par
@@ -346,15 +346,15 @@ balance
 balance agregado
 balance consolidado
 balance de apertura
-balance de comprobación
-balance de comprobación y saldos
+balance de comprobacion
+balance de comprobacion y saldos
 balance de entrada
-balance de fusión
-balance de liquidación
-balance de liquidación definitiva
+balance de fusion
+balance de liquidacion
+balance de liquidacion definitiva
 balance de saldos
 balance de salida
-balance de situación
+balance de situacion
 balance de volumen
 balance dictaminado
 balance final
@@ -370,7 +370,7 @@ balanza de operaciones corrientes
 balanza de pagos
 balanza de servicios
 balanza de transferencias
-balanza económica
+balanza economica
 balanza por cuenta corriente
 balanza por cuenta de capital
 balanza por cuenta financiera
@@ -385,19 +385,19 @@ banca de desarrollo
 banca de empresas
 banca de inversiones
 banca de negocios
-banca electrónica
+banca electronica
 banca extranjera
 banca industrial
 banca mayorista
 banca minorista
 banca mixta
-banca múltiple
+banca multiple
 banca personal
 banca privada
-banca pública
+banca publica
 bancario
-bancarización
-banca telefónica
+bancarizacion
+banca telefonica
 banca universal
 banco
 banco agente
@@ -415,36 +415,36 @@ banco de servicios
 banco director
 banco emisor
 Banco Europeo de Inversiones (BEI)
-Banco Europeo de Reconstrucción y Desarrollo (BERD)
+Banco Europeo de Reconstruccion y Desarrollo (BERD)
 banco extranjero
 banco industrial
 Banco Interamericano de Desarrollo (BID)
 banco intermediario
-Banco Internacional de Reconstrucción y Fomento (BIRF)
+Banco Internacional de Reconstruccion y Fomento (BIRF)
 banco intervenido
 Banco Mundial
 banco notificador
 banco pagador
 banda
-banda de fluctuación
+banda de fluctuacion
 bandera
 banquero
 barrer
 barreras de entrada
 base
-base contable de acumulación
+base contable de acumulacion
 base contable de devengo
-base de cotización
-base económica
+base de cotizacion
+base economica
 base fiscal de un activo
 base fiscal de un pasivo
 base imponible
 base liquidable
 base monetaria
 base reguladora
-bases técnicas
+bases tecnicas
 Basilea II
-batería de indicadores
+bateria de indicadores
 BCE
 bear
 BEI
@@ -454,16 +454,16 @@ beneficiario
 beneficio
 beneficio bruto
 beneficio neto
-beneficio por acción
+beneficio por accion
 beneficios a los empleados
 beneficios a los empleados a corto plazo
-beneficios económicos futuros
+beneficios economicos futuros
 beneficios fiscales
 beneficios irrevocables
 beneficios irrevocables de los empleados
 beneficios marginales
 beneficios por actividades ordinarias
-beneficios por terminación
+beneficios por terminacion
 beneficios postempleo
 beneficios retenidos
 beta
@@ -479,16 +479,16 @@ bien de consumo duradero
 bien de consumo no duradero
 bien de equipo
 bien de Giffen
-bien de inversión
+bien de inversion
 bien de lujo
 bien de primera necesidad
 bien de primer orden
-bien de producción
+bien de produccion
 bien de uso
-bien de uso público
+bien de uso publico
 bien diferenciado
 bien duradero
-bien económico
+bien economico
 bien en proceso
 bienes adventicios
 bien escaso
@@ -507,16 +507,16 @@ bienes nacionales
 bienes nullius
 bienes parafernales
 bienes propios
-bienes públicos mundiales
-bienes raíces
+bienes publicos mundiales
+bienes raices
 bienes relictos
 bienes reservativos
 bienes semovientes
 bienes superiores
-bienestar económico
+bienestar economico
 bienes troncales
 bien final
-bien físico
+bien fisico
 bien fungible
 bien Giffen
 bien gratuito
@@ -532,7 +532,7 @@ bien normal
 bien nuevo
 bien perecedero
 bien producido
-bien público
+bien publico
 bien renovable
 bien semiacabado
 bien semielaborado
@@ -541,13 +541,13 @@ bien vacante
 billete
 billete verde
 bimetalismo
-bioeconomía
+bioeconomia
 BIRF
 black knight
 blanqueo de capitales
 bloqueo
 blue chip
-boicot económico
+boicot economico
 Bolsa
 Bolsa de comercio
 Bolsa de Londres
@@ -555,9 +555,9 @@ Bolsa de Nueva York
 Bolsa de Tokio
 bolsa de trabajo
 Bolsa de valores
-bolsín
-bonanza económica
-bonificación
+bolsin
+bonanza economica
+bonificacion
 bonista
 bono
 bono a la par
@@ -567,17 +567,17 @@ bono al descuento
 bono bajista
 bono basura
 bono canjeable
-bono con cupón diferido
-bono con interés escalonado
-bono con interés fijo
-bono con interés variable
-bono con interés variable convertible en bono de interés fijo
-bono con interés variable indizado
-bono con interés variable inverso
-bono con interés variable reajustable anticipadamente
-bono con prima de emisión
+bono con cupon diferido
+bono con interes escalonado
+bono con interes fijo
+bono con interes variable
+bono con interes variable convertible en bono de interes fijo
+bono con interes variable indizado
+bono con interes variable inverso
+bono con interes variable reajustable anticipadamente
+bono con prima de emision
 bono convertible
-bono cupón cero
+bono cupon cero
 bono de caja
 bono de disfrute
 bono del Estado
@@ -589,7 +589,7 @@ bono global
 bono hipotecario
 bono mundial
 bono nocional
-bono-opción
+bono-opcion
 bono pagado parcialmente
 bono perpetuo
 bono segregable
@@ -606,7 +606,7 @@ bull
 bullionismo
 Bundesbank
 burbuja
-bursátil
+bursatil
 bursatilidad
 business angels
 caballero blanco
@@ -625,27 +625,27 @@ caja generada
 caja generada libre
 caja operativa generada
 cajero
-cajero automático
+cajero automatico
 calentamiento
 calentamiento a la baja
 calentamiento al alza
-calificación
+calificacion
 call
-cámara de compensación
-cámara de compensación automatizada
+camara de compensacion
+camara de compensacion automatizada
 cambio
 cambio base
 cambio comprador
 cambio de base
 cambio de divisas
-cambio de intervención
+cambio de intervencion
 cambio de moneda extranjera
-cambio en una estimación contable
+cambio en una estimacion contable
 cambio fijo
 cambio flotante
 cambio libre
 cambio oficial
-cambio teórico
+cambio teorico
 cambio vendedor
 cambista
 canal
@@ -653,15 +653,15 @@ canal alcista
 canal bajista
 canal horizontal
 canjear
-canon francés
+canon frances
 cap
 capacidad
 capacidad de beneficio
-capacidad de crédito
-capacidad de financiación
+capacidad de credito
+capacidad de financiacion
 capacidad de reembolso
-capacidad normal de las instalaciones de producción
-capitación
+capacidad normal de las instalaciones de produccion
+capitacion
 capital
 capital aportado
 capital asegurado
@@ -672,19 +672,19 @@ capital de desarrollo
 capital de lanzamiento
 capital de puesta en marcha
 capital desembolsado
-capital económico
+capital economico
 capital emitido
 capital flotante
 capital humano
 capital inicial
-capital inversión
+capital inversion
 capitalismo
 capitalismo financiero
 capitalismo popular
 capitalista
-capitalización
-capitalización bursátil
-capitalización compuesta
+capitalizacion
+capitalizacion bursatil
+capitalizacion compuesta
 capitalizar
 capital para la fase inicial
 capital riesgo
@@ -694,18 +694,18 @@ capital social variable
 capital suscrito
 captar recursos
 carencia
-carestía de la vida
+carestia de la vida
 carga
 cargas financieras
-cargo automático
-carta de asignación
-carta de pignoración
-cartel o cártel
+cargo automatico
+carta de asignacion
+carta de pignoracion
+cartel o cartel
 cartera asegurada
 cartera de acciones propias
-cartera de créditos
+cartera de creditos
 cartera de inversiones
-cartera de negociación
+cartera de negociacion
 cartera de valores
 cartera equilibrada
 cartera especulativa
@@ -714,24 +714,24 @@ cartera vencida
 Casa de la Moneda
 cash
 cash flow
-caución bursátil
+caucion bursatil
 CBE
 cedente
-cédula hipotecaria
-cédulas territoriales
+cedula hipotecaria
+cedulas territoriales
 central de anotaciones
 central de balances
 central depositaria de valores
 central de riesgos
 centro financiero internacional
 centro off-shore
-cerrar una posición
+cerrar una posicion
 certificado de acciones
-certificado de depósito
-certificado de opción para la suscripción de títulos
+certificado de deposito
+certificado de opcion para la suscripcion de titulos
 cesionario
-cesión de créditos
-cesión temporal de activos
+cesion de creditos
+cesion temporal de activos
 cesta de fondos
 cesta de monedas
 ceteris paribus
@@ -749,96 +749,97 @@ cheque nominativo
 cheque posdatado
 chequera
 chicharro
-ciclo bursátil
+ciclo bursatil
 ciclo de operaciones
-ciclo económico
-ciclo normal de explotación
-cierre bursátil
-cierre de una posición
+ciclo economico
+ciclo normal de explotacion
+cierre bursatil
+cierre de una posicion
 cifra de negocios
-circuito económico
+circuito economico
 circulante neto
 Circular del Banco de España
 clase de activos
 clase de instrumentos financieros
-cláusula antidilución
-cláusula de compensación
-cláusula de incumplimiento cruzado
-cláusula de pignoración negativa
-cláusula hipotecaria negativa
-cláusula monetaria
-cláusula resolutoria
+clausula antidilucion
+clausula de compensacion
+clausula de incumplimiento cruzado
+clausula de pignoracion negativa
+clausula hipotecaria negativa
+clausula monetaria
+clausula resolutoria
 CNMV
 coaseguro
 cobertura
 cobertura corta
 cobertura de intereses
-cobertura dinámica
+cobertura dinamica
 cobertura larga
 cobertura real
-Código de Identificación Bancaria (BIC)
-Código Internacional de Cuenta Bancaria (IBAN)
+Codigo de Identificacion Bancaria (BIC)
+Codigo Internacional de Cuenta Bancaria (IBAN)
 coeficiente alfa
 coeficiente beta
 coeficiente de caja
 coeficiente de capital
-coeficiente de conversión
+coeficiente de conversion
 coeficiente de endeudamiento
-coeficiente de garantía
-coeficiente de inversión
+coeficiente de garantia
+coeficiente de inversion
 coeficiente de liquidez
 coeficiente de solvencia
 coeficiente de suficiencia de capital
 coeficiente legal de caja
-coeficiente técnico
-cofinanciación
+coeficiente tecnico
+cofinanciacion
 colateral
 collar
-colocación
-colocación stand-by
+colocacion
+colocacion stand-by
 colocar
-combinación de negocios
-combinación de negocios entre entidades o negocios bajo control común
-comercialización
+combinacion de negocios
+combinacion de negocios entre entidades o negocios bajo control comun
+comercializacion
 comercializar
 comercio
 comercio compensatorio
 comienzo del plazo de arrendamiento
-comisión
-comisión de agencia
-comisión de amortización anticipada
-comisión de apertura
-comisión de cancelación
-Comisión de Control
-comisión de depositaría
-comisión de disponibilidad
-comisión de estudio
-comisión de gestión
-comisión de modificación de condiciones o garantías
-comisión de reembolso
-comisión de subrogación
-comisión de suscripción
+comision
+comision
+comision de agencia
+comision de amortizacion anticipada
+comision de apertura
+comision de cancelacion
+Comision de Control
+comision de depositaria
+comision de disponibilidad
+comision de estudio
+comision de gestion
+comision de modificacion de condiciones o garantias
+comision de reembolso
+comision de subrogacion
+comision de suscripcion
 comiso
-Comité Bancario Europeo (CBE)
-Comité Consultivo Bancario (CCB)
-Comité de Basilea
-Comité de Supervisores Bancarios Europeos
+Comite Bancario Europeo (CBE)
+Comite Consultivo Bancario (CCB)
+Comite de Basilea
+Comite de Supervisores Bancarios Europeos
 comitente
 comodato
-compañía asociada
-compañía matriz
+compañia asociada
+compañia matriz
 compatibilidad de indemnizaciones
 compensable
-compensación
-compensación bancaria
-compensación bilateral
-compensación de posición
-compensación en efectivo
-compensación multilateral
+compensacion
+compensacion bancaria
+compensacion bilateral
+compensacion de posicion
+compensacion en efectivo
+compensacion multilateral
 compensar
 competencia perfecta
 compra
-compra a crédito
+compra a credito
 compra al contado
 compra apalancada
 compra a plazos
@@ -846,26 +847,26 @@ compra discrecional
 comprensibilidad
 compromiso en firme
 compromiso firme de compra
-cómputo
-conciliación bancaria
+computo
+conciliacion bancaria
 concurrencia de seguro
-condiciones para la irrevocabilidad (o consolidación) de la concesión
+condiciones para la irrevocabilidad (o consolidacion) de la concesion
 condiciones previas
-condición referida al mercado
-condonación de deuda tributarias
+condicion referida al mercado
+condonacion de deuda tributarias
 condonar
-Confederación Española de Cajas de Ahorro (CECA)
-confirmación
+Confederacion Española de Cajas de Ahorro (CECA)
+confirmacion
 confirming
 con gastos
 conglomerado
-Consejo de Administración
-consignación a mejor precio
-consignación a precio fijo
-consignación con mínimo garantizado
-consolidación
-Consolidación por integración global
-consolidación proporcional
+Consejo de Administracion
+consignacion a mejor precio
+consignacion a precio fijo
+consignacion con minimo garantizado
+consolidacion
+Consolidacion por integracion global
+consolidacion proporcional
 consorcio
 constante
 consumidor
@@ -873,7 +874,7 @@ consumo
 contabilidad
 contabilidad administrativa
 contabilidad nacional
-contabilidad pública
+contabilidad publica
 contabilidad social
 contraasiento
 contraopa
@@ -881,49 +882,49 @@ contraparte
 contraparte central
 contrapartida
 contrato
-contrato a plazo sobre tipos de interés
-contrato de alquiler con opción de compra
-contrato de carácter oneroso
-contrato de construcción
+contrato a plazo sobre tipos de interes
+contrato de alquiler con opcion de compra
+contrato de caracter oneroso
+contrato de construccion
 contrato de futuros
-contrato de garantía financiera
+contrato de garantia financiera
 contrato de margen sobre el coste
 contrato de precio fijo
 contrato de seguro directo
-contrato financiero atípico
+contrato financiero atipico
 contravalor
-contribución
+contribucion
 controladora
 control conjunto
 control de cambios
 control de una entidad
 convenio colectivo
-convergencia económica
-conversión
+convergencia economica
+conversion
 convertibilidad
 convertible
-cooperativa de crédito
+cooperativa de credito
 core capital
-corrección bursátil
+correccion bursatil
 corredor
 corredor de bolsa
 corredor de comercio
 corredor de seguros
-correlación de gastos con ingresos
+correlacion de gastos con ingresos
 corresponsal
 corretaje
-corro bursátil
+corro bursatil
 coste
 coste amortizado de un activo financiero o de un pasivo financiero
 coste atribuido
 coste corriente
-coste de adquisición
+coste de adquisicion
 coste de capital
 coste de capital medio ponderado
 coste decreciente
 coste de existencias
-coste de explotación
-coste de financiación
+coste de explotacion
+coste de financiacion
 coste de la vida
 coste de los inventarios
 coste de los servicios del ejercicio corriente
@@ -934,69 +935,69 @@ coste directo
 coste estimado
 coste fijo
 coste financiero
-coste histórico
+coste historico
 coste incremental de un instrumento financiero
 coste indirecto
-coste indirecto variable de producción
+coste indirecto variable de produccion
 coste inicial
 coste laboral
 coste marginal
 coste medio
 coste nominal
 coste residual
-costes de conversión
-costes de disposición por otra vía
-costes de transacción de un instrumento financiero
+costes de conversion
+costes de disposicion por otra via
+costes de transaccion de un instrumento financiero
 costes de venta
 coste unitario
 costo
 costo de servicio pasado
-cotización
-cotización al cierre
+cotizacion
+cotizacion al cierre
 cotizado
 cotizar
 covenants
-coyuntura económica
-crack bursátil
+coyuntura economica
+crack bursatil
 creador de mercado
-crecimiento económico
+crecimiento economico
 crecimiento sostenido
-crédito
-crédito a interés fijo
-crédito a interés variable
-crédito a la exportación
-crédito al consumo
-crédito back-to-back
-crédito blando
-crédito compensado
-crédito con garantía de otro crédito
-crédito con garantía real
-crédito de avío
-crédito de habilitación
-crédito documentario
-crédito en cuenta corriente
-crédito hipotecario
-crédito intradía
-crédito irrevocable
-crédito participativo
-crédito personal
-crédito pignoraticio
-crédito privilegiado
-crédito puente
-crédito revocable
-crédito revolvente
-crédito simple
-crédito sindicado
-crédito sobre mercancías
-crédito vinculado
+credito
+credito a interes fijo
+credito a interes variable
+credito a la exportacion
+credito al consumo
+credito back-to-back
+credito blando
+credito compensado
+credito con garantia de otro credito
+credito con garantia real
+credito de avio
+credito de habilitacion
+credito documentario
+credito en cuenta corriente
+credito hipotecario
+credito intradia
+credito irrevocable
+credito participativo
+credito personal
+credito pignoraticio
+credito privilegiado
+credito puente
+credito revocable
+credito revolvente
+credito simple
+credito sindicado
+credito sobre mercancias
+credito vinculado
 crisis bancaria
-crisis económica
+crisis economica
 criterio de caja
 criterio de devengo
 criterios contables
 cruzar un cheque
 cuadrar un balance
-cuadro de amortización
+cuadro de amortizacion
 cuasidinero
 cubrir
 cuenta
@@ -1006,8 +1007,8 @@ cuenta conjunta
 cuenta corriente
 cuenta de ahorro
 cuenta de ahorro vivienda
-cuenta de explotación
-cuenta de pérdidas y ganancias
+cuenta de explotacion
+cuenta de perdidas y ganancias
 cuenta deudora
 cuenta mancomunada
 cuenta puente
@@ -1015,43 +1016,43 @@ cuentas anuales
 cuentas anuales consolidadas
 cuentas financieras
 cuenta solidaria
-cuentas públicas
+cuentas publicas
 cuenta transitoria
 cuota
 cuota creciente
-cuota de amortización
-cuota de importación
-cuota de inscripción
+cuota de amortizacion
+cuota de importacion
+cuota de inscripcion
 cuota de mercado
 cuota de ventas
 cuota fija
 cuotas contingentes por arrendamientos
 cuotas participativas
-cupón
-cupón cero
-cupón corrido
+cupon
+cupon cero
+cupon corrido
 curva de cotizaciones
 curva de demanda
 curva de oferta
 custodia
 custodio
 daño
-datáfono / TPV
+datafono / TPV
 DAX
 dealer
 debe
 deber
-débito
-declaración de bienes
-declaración tributaria
+debito
+declaracion de bienes
+declaracion tributaria
 decomiso
-déficit
-déficit comercial
-déficit de caja
-déficit exterior
-déficit financiero
-déficit presupuestario
-deflación
+deficit
+deficit comercial
+deficit de caja
+deficit exterior
+deficit financiero
+deficit presupuestario
+deflacion
 deflactar
 deflactor
 delegado fiduciario
@@ -1064,70 +1065,70 @@ demanda derivada
 demanda de trabajo
 demanda diferida
 demanda efectiva
-demanda elástica
+demanda elastica
 demanda exterior
 demanda final
-demanda inelástica
+demanda inelastica
 demanda interna
-demanda rígida
+demanda rigida
 demora
 dependiente
 depositante
 depositar
 depositario/a
-depósito
-depósito a corto plazo
-depósito a largo plazo
-depósito a la vista
-depósito a plazo fijo
-depósito bancario
-depósito estructurado
-depósito interbancario
-depósito vinculado
-depreciación
-depreciación monetaria
-depresión económica
+deposito
+deposito a corto plazo
+deposito a largo plazo
+deposito a la vista
+deposito a plazo fijo
+deposito bancario
+deposito estructurado
+deposito interbancario
+deposito vinculado
+depreciacion
+depreciacion monetaria
+depresion economica
 derecho antidumping
-derecho de suscripción
+derecho de suscripcion
 derechos de giro
 derivado
-derivado de crédito
-derivado exótico
-derivado extrabursátil
-derivado implícito
+derivado de credito
+derivado exotico
+derivado extrabursatil
+derivado implicito
 derivado insertado
 derroche
 desabastecer
-desaceleración económica
+desaceleracion economica
 desarrollo
 desarrollo sostenible
-desbloquear un depósito
+desbloquear un deposito
 descontar
 descubierto
 descuento
 descuento de facturas
 descuento financiero
-deseconomías de escala
+deseconomias de escala
 desembolso
 desempeñar
 desempleo
-desempleo cíclico
+desempleo ciclico
 desempleo encubierto
 desempleo estacional
 desempleo estructural
-desempleo técnico
+desempleo tecnico
 desequilibrio
 desfalco
-desindustrialización
-desinflación
-desintermediación
-desinversión
-deslocalización
-desmaterialización
-desmonetización
+desindustrializacion
+desinflacion
+desintermediacion
+desinversion
+deslocalizacion
+desmaterializacion
+desmonetizacion
 desmonetizar
-despegue económico
-desvalorización
+despegue economico
+desvalorizacion
 deuda
 deuda comercial
 deuda consolidada
@@ -1140,22 +1141,22 @@ deuda garantizada
 deuda incobrable
 deuda perpetua
 deuda por efectos descontados
-deuda pública
+deuda publica
 deuda subordinada
 deuda vencida
 deudor
 deudor solidario
-devaluación
+devaluacion
 devaluar
 devengar
 devengo
-devolución
-día hábil
-día laborable
+devolucion
+dia habil
+dia laborable
 dictamen
 dictamen pericial
 dientes de sierra
-diferenciación de productos
+diferenciacion de productos
 diferencia de cambio
 diferencial
 diferencial bancario
@@ -1165,22 +1166,22 @@ diferencias temporarias
 diferencias temporarias deducibles
 diferencias temporarias imponibles
 diferir
-dilución
+dilucion
 dinero
 dinero a la vista
 dinero caliente
-dinero electrónico
-dinero en circulación
+dinero electronico
+dinero en circulacion
 dinero fiduciario
 dinero legal
 dinero negro
-disminución de valor
+disminucion de valor
 disociar
-disponibilidades líquidas
+disponibilidades liquidas
 disponible
 dispuesto
-distancia máxima de divergencia
-diversificación
+distancia maxima de divergencia
+diversificacion
 dividendo
 dividendo activo
 dividendo a cuenta
@@ -1188,15 +1189,15 @@ dividendo bruto
 dividendo complementario
 dividendo con cargo a reservas
 dividendo en acciones
-dividendo líquido
+dividendo liquido
 dividendo neto
 dividendo pasivo
 divisa
 divisa convertible
 doble seguro
 documentos financieros
-Documento Único Aduanero (DUA)
-dólar preferencial
+Documento unico Aduanero (DUA)
+dolar preferencial
 domiciliar
 dominio
 donar
@@ -1208,29 +1209,29 @@ duopsonio
 EAD
 EBITDA
 economato
-econometría
-Economía
-economía abierta
-economía capitalista
-economía cerrada
-economía de mercado
-economía doméstica
-Economía financiera
-economía mixta
-economía planificada
-Economía positiva
-economías de escala
-economía sumergida
+econometria
+Economia
+economia abierta
+economia capitalista
+economia cerrada
+economia de mercado
+economia domestica
+Economia financiera
+economia mixta
+economia planificada
+Economia positiva
+economias de escala
+economia sumergida
 economicismo
 efectivo
-efecto de exclusión
+efecto de exclusion
 efecto de palanca
 efecto descontado
 efecto endosado
 efecto mercantil
-efecto público
+efecto publico
 efectos a pagar
-efecto sustitución
+efecto sustitucion
 eficacia de la cobertura
 eficiencia
 egresos
@@ -1238,15 +1239,15 @@ ejecutar una orden
 ejercicio
 elasticidad
 elasticidad cruzada
-elasticidad de sustitución
+elasticidad de sustitucion
 elemento garantizado
 embargo
-emisión
-emisión bajo la par
-emisión estructurada
-emisión liberada
-emisión liberada parcialmente
-emisión sobre la par
+emision
+emision bajo la par
+emision estructurada
+emision liberada
+emision liberada parcialmente
+emision sobre la par
 emisor
 emitir
 empleados y terceros que prestan servicios similares
@@ -1259,8 +1260,8 @@ empresa en funcionamiento
 empresa filial
 empresa multinacional
 empresa privada
-empresa pública
-empréstito
+empresa publica
+emprestito
 enajenar
 encaje bancario
 en cartera
@@ -1274,11 +1275,11 @@ endoso 'sin mi responsabilidad'
 endoso en blanco
 en mora
 enriquecimiento
-entidad comprometida de manera demostrable a pagar beneficios por terminación
+entidad comprometida de manera demostrable a pagar beneficios por terminacion
 entidad controlada de manera conjunta
-entidad de carácter mutualista
+entidad de caracter mutualista
 entidad de contrapartida central
-entidad de crédito
+entidad de credito
 entidad depositaria
 entidad financiera
 entidad gestora
@@ -1286,33 +1287,33 @@ entidad informante
 entrada
 equilibrio competitivo
 equilibrio financiero
-equilibrio macroeconómico
+equilibrio macroeconomico
 equivalentes al efectivo
-erario público
-erogación
+erario publico
+erogacion
 errores de ejercicios anteriores
 escalera de vencimientos
 escasez monetaria
-escisión de sociedades
+escision de sociedades
 esencia sobre la forma
-especulación
+especulacion
 especulador
 especular
-estabilidad económica
-estabilización
-establecimiento financiero de crédito (EFC)
+estabilidad economica
+estabilizacion
+establecimiento financiero de credito (EFC)
 estacionalidad
-estadística
+estadistica
 estado consolidado
 estado contable
 estado contable previsional
 estado de cuentas
-estado de pérdidas y ganancias
+estado de perdidas y ganancias
 estados financieros
 estados financieros consolidados
 estados financieros separados
-estancamiento económico
-estanflación
+estancamiento economico
+estanflacion
 estatutos sociales
 estimaciones
 estrangulamiento
@@ -1322,59 +1323,59 @@ estructural
 Euribor
 euro
 Euro Commercial Paper
-eurocrédito
+eurocredito
 eurodivisa
-eurodólar
+eurodolar
 euromercado
-evaluación del daño
-evasión de capitales
+evaluacion del daño
+evasion de capitales
 evento asegurado
 evento de incumplimiento
 excedente
-exceso de crédito
+exceso de credito
 exceso de demanda
 exceso de oferta
-exceso de tesorería
-ex-cupón
-expansión económica
-expectativas económicas
+exceso de tesoreria
+ex-cupon
+expansion economica
+expectativas economicas
 expectativas racionales
-explosión de precios
-exportación
-exportación en consignación
+explosion de precios
+exportacion
+exportacion en consignacion
 exportar
-exposición
-exposición al riesgo crediticio
-exposición bilateral
-exposición crediticia
-expropiación
+exposicion
+exposicion al riesgo crediticio
+exposicion bilateral
+exposicion crediticia
+expropiacion
 externalidad
 externalidad negativa
 externalidad positiva
-extrabursátil
-extracto bancario
+extrabursatil
+extracto
 factor
 factoraje
-factor de actualización
-factor de capitalización
-factor de producción
+factor de actualizacion
+factor de capitalizacion
+factor de produccion
 factoring
 factura
-facturación
+facturacion
 factura pro forma
 fallido
 fallo del mercado
 familia de fondos
-fase económica ascendente
-fecha de amortización
+fase economica ascendente
+fecha de amortizacion
 fecha de ejercicio
-fecha de liquidación
-fecha de negociación
-fecha de presentación
-fecha de transición a las NIIF
-fecha de valoración
+fecha de liquidacion
+fecha de negociacion
+fecha de presentacion
+fecha de transicion a las NIIF
+fecha de valoracion
 fecha de vencimiento
-federalismo económico
+federalismo economico
 fiabilidad
 FIAMM
 fianza
@@ -1388,10 +1389,10 @@ FIFO
 FII
 filial
 FIM
-financiación
-financiación de entresuelo
-financiación puente
-financiación subordinada
+financiacion
+financiacion de entresuelo
+financiacion puente
+financiacion subordinada
 Financial Services Authority (FSA)
 financiamiento
 financiar
@@ -1400,18 +1401,18 @@ financiero/a
 finanzas
 finiquito
 firma digital
-firmeza de la liquidación
+firmeza de la liquidacion
 fiscalizar
 fixing
 flexibilidad laboral
 floor
-flotación
-flotación limpia
-flotación sucia
-fluctuación
-fluctuación cambiaria
-fluctuación cíclica
-fluctuación patrimonial
+flotacion
+flotacion limpia
+flotacion sucia
+fluctuacion
+fluctuacion cambiaria
+fluctuacion ciclica
+fluctuacion patrimonial
 fluidez
 flujo
 flujo circular de la renta
@@ -1419,38 +1420,38 @@ flujo de caja
 flujo de efectivo
 flujo de fondos
 flujo de salidas
-flujo de tesorería
+flujo de tesoreria
 flujo monetario
 FMI
-folleto de emisión
+folleto de emision
 fondo
-fondo común
-fondo de acumulación
-fondo de adhesión
+fondo comun
+fondo de acumulacion
+fondo de adhesion
 fondo de alto riesgo
-fondo de amortización
-fondo de capital inversión
-fondo de capitalización
+fondo de amortizacion
+fondo de capital inversion
+fondo de capitalizacion
 fondo de capital riesgo
 fondo de cobertura
 fondo de comercio
 fondo de dinero
-fondo de distribución
+fondo de distribucion
 fondo de fondos
-Fondo de garantía de depósitos
-fondo de inversión
-fondo de inversión en activos del mercado monetario (FIAMM)
-fondo de inversión en derivados
-fondo de inversión inmobiliaria (FII)
-fondo de inversión libre
-fondo de inversión mobiliaria (FIM)
+Fondo de garantia de depositos
+fondo de inversion
+fondo de inversion en activos del mercado monetario (FIAMM)
+fondo de inversion en derivados
+fondo de inversion inmobiliaria (FII)
+fondo de inversion libre
+fondo de inversion mobiliaria (FIM)
 fondo de maniobra
 fondo de pensiones
 fondo de reparto
 fondo de rescate
-fondo de rotación
-fondo de titulización de activos
-fondo de titulización hipotecaria
+fondo de rotacion
+fondo de titulizacion de activos
+fondo de titulizacion hipotecaria
 fondo en fideicomiso
 fondo fiduciario
 fondo garantizado
@@ -1459,9 +1460,9 @@ fondo maestro
 Fondo Monetario Internacional
 fondo off shore
 fondo paraguas
-fondos de cohesión
-fondos de colocación discrecional
-fondos de colocación no discrecional
+fondos de cohesion
+fondos de colocacion discrecional
+fondos de colocacion no discrecional
 fondos de renta fija
 fondos disponibles
 fondos en divisas
@@ -1469,47 +1470,47 @@ fondos especiales
 fondos estructurales
 fondos globales
 fondos internacionales
-fondo sintético de índices
+fondo sintetico de indices
 fondos mixtos
 fondos multidivisas
 fondo sobre la forma
 Fondo Social Europeo (FSE)
-fondos públicos
+fondos publicos
 fondos sectoriales
 Fondtesoro
 Footsie
-forfetización
-forma débil de eficiencia
+forfetizacion
+forma debil de eficiencia
 forma fuerte de eficiencia
-formalización de la póliza
+formalizacion de la poliza
 forward
 fraccionamiento de prima
-fracción arancelaria
-franco fábrica
+fraccion arancelaria
+franco fabrica
 franquicia
-frecuencia de contratación
+frecuencia de contratacion
 free float
-frontera de posibilidades de producción
-fuentes de financiación
+frontera de posibilidades de produccion
+fuentes de financiacion
 fuera de dinero
-función de compensación
-función de consumo
-función de la demanda
-función de la oferta
-función de producción
-función pública
+funcion de compensacion
+funcion de consumo
+funcion de la demanda
+funcion de la oferta
+funcion de produccion
+funcion publica
 fungible
-fusión de sociedades
-fusión por absorción
+fusion de sociedades
+fusion por absorcion
 futurible
 futuros
-futuro sintético
+futuro sintetico
 futuros sobre diferenciales
 futuros sobre divisas
 futuros sobre IBEX 35
-futuros sobre índices
-futuros sobre mercancías
-futuros sobre tipos de interés
+futuros sobre indices
+futuros sobre mercancias
+futuros sobre tipos de interes
 futuros sobre valores
 Gamma
 ganancia
@@ -1519,96 +1520,96 @@ ganancia fiscal
 ganancias
 ganancias brutas
 ganancias netas
-ganancias por acción básicas
-ganancias por acción diluidas
-ganancias y pérdidas actuariales
+ganancias por accion basicas
+ganancias por accion diluidas
+ganancias y perdidas actuariales
 gap
-gap de duración
+gap de duracion
 gap inflacionista
-gap tecnológico
+gap tecnologico
 garante
-garantía
-garantía a la inversión
-garantía bancaria
-garantía colectiva
-garantía de riesgo de cambio
-garantía general
-garantía hipotecaria
-garantía negociable
-garantía personal
-garantía prendaria
-garantía real
-garantías complementarias del seguro de vida
+garantia
+garantia a la inversion
+garantia bancaria
+garantia colectiva
+garantia de riesgo de cambio
+garantia general
+garantia hipotecaria
+garantia negociable
+garantia personal
+garantia prendaria
+garantia real
+garantias complementarias del seguro de vida
 gasto
 gasto de consumo
-gasto de inversión
+gasto de inversion
 gasto del segmento
 gasto por el impuesto a las ganancias o impuesto sobre beneficios
 gasto privado
-gasto público
+gasto publico
 gastos administrativos
 gastos capitalizados
 gastos deducibles
 gastos extraordinarios
 gastos financieros
 gastos fiscales
-gestión activa
-gestión de carteras
-gestión de cobros
-gestión de existencias
-gestión de liquidez
-gestión de patrimonios
-gestión de riesgos
-gestión de tesorería
-gestión financiera
-gestión pasiva
-gestión presupuestaria
+gestion activa
+gestion de carteras
+gestion de cobros
+gestion de existencias
+gestion de liquidez
+gestion de patrimonios
+gestion de riesgos
+gestion de tesoreria
+gestion financiera
+gestion pasiva
+gestion presupuestaria
 gestor
 gestor administrativo
 gestor de negocios
-gestor líder
+gestor lider
 girado
 girador
 girar
 giro
 giro bancario
 giro postal
-globalización
+globalizacion
 goteo
 grado de apalancamiento
-gráfico
+grafico
 grandes riesgos
-gratificación
+gratificacion
 gravamen
 green-shoe
 gremialismo
 grupo
 grupo de empresas
-grupo de presión
-grupo en desapropiación
-grupo estratégico
+grupo de presion
+grupo en desapropiacion
+grupo estrategico
 guerra de precios
-guerra económica
-gurú
+guerra economica
+guru
 haber
 Hacienda
-Hacienda Pública
+Hacienda Publica
 Hang Seng
-hecho económico
-hecho fáctico
+hecho economico
+hecho factico
 hecho imponible
 hechos posteriores a la fecha del balance
 hedge fund
-hiperinflación
+hiperinflacion
 hipoteca
 hipotecable
 hipoteca inversa
 hipotecar
-hipótesis actuariales
-hipótesis contable del devengo
-hipótesis de las pérdidas fiscales
-hipótesis de trabajo
-histéresis de los costes
+hipotesis actuariales
+hipotesis contable del devengo
+hipotesis de las perdidas fiscales
+hipotesis de trabajo
+histeresis de los costes
 histograma
 holding
 hombro, cabeza, hombro
@@ -1623,107 +1624,107 @@ iguala
 IIC
 IICIL
 iliquidez
-ilusión monetaria
+ilusion monetaria
 impagado
-importación
+importacion
 importaciones
 importancia relativa
 importe depreciable
 importe en libros
 importe recuperable
 importe revalorizado de un activo
-imposición a plazo fijo
+imposicion a plazo fijo
 impuesto
 impuesto al activo
-impuesto al valor agregado
-impuesto de capitación
+impuesto al agregado
+impuesto de capitacion
 impuesto progresivo
 impuesto proporcional
 impuesto regresivo
 impuestos directos
 impuestos indirectos
 Impuesto sobre el patrimonio
-impuesto sobre el valor añadido
+impuesto sobre el añadido
 impuesto sobre la renta
-Impuesto sobre la renta de las personas físicas
+Impuesto sobre la renta de las personas fisicas
 Impuesto sobre sociedades
 incapacidad total
 incapacidad total permanente
 incidencia
-incorporación de reservas
+incorporacion de reservas
 incremento de patrimonio
-incumplimiento endógeno
-incumplimiento exógeno
-indemnización
-indemnización diaria
-indemnización por cese
+incumplimiento endogeno
+incumplimiento exogeno
+indemnizacion
+indemnizacion diaria
+indemnizacion por cese
 indemnizar
-indexación
+indexacion
 indexado
 indexar
 indicador
 indicador beta
 indicador de riesgo
-indicador económico
-indicador técnico bursátil
-índice
-índice bursátil
-índice de beneficio bruto
-índice de cobertura
-índice de cotización
-índice de desempleo
-índice de empleo
-índice de morosidad
-índice de precios
-Índice de Precios al Consumo (IPC)
-índice de precios industriales
-índice de solvencia
-índice de utilidad bruta
-índice general de la Bolsa
-índice ponderado
-indización
+indicador economico
+indicador tecnico bursatil
+indice
+indice bursatil
+indice de beneficio bruto
+indice de cobertura
+indice de cotizacion
+indice de desempleo
+indice de empleo
+indice de morosidad
+indice de precios
+indice de Precios al Consumo (IPC)
+indice de precios industriales
+indice de solvencia
+indice de utilidad bruta
+indice general de la Bolsa
+indice ponderado
+indizacion
 indizado
 indizar
 industria
-industrialización
+industrializacion
 industrializar
 industria pesada
 INE
-inelástica
+inelastica
 inelasticidad
 INEM
-inflación
-inflación abierta
+inflacion
+inflacion abierta
 inflacionario
-inflación de costes
-inflación de demanda
-inflación de salarios
-inflación galopante
-inflación interanual
+inflacion de costes
+inflacion de demanda
+inflacion de salarios
+inflacion galopante
+inflacion interanual
 inflacionista
-inflación reptante
-inflación subyacente
+inflacion reptante
+inflacion subyacente
 influencia significativa
-información confidencial
-información financiera
-información privilegiada
+informacion confidencial
+informacion financiera
+informacion privilegiada
 informe
-informe bursátil
+informe bursatil
 informe financiero intermedio
 informe pericial
-infracapitalización
+infracapitalizacion
 infraestructura
-infraestructura económica
-infrainversión
+infraestructura economica
+infrainversion
 infraseguro
-infrautilización de los recursos
+infrautilizacion de los recursos
 infrautilizar
-infravaloración de un valor mobiliario
+infravaloracion de un mobiliario
 infravalorar
-ingeniería financiera
+ingenieria financiera
 ingresar
 ingreso
-ingreso atípico
+ingreso atipico
 ingreso extraordinario
 ingreso marginal
 ingreso medio
@@ -1736,21 +1737,21 @@ ingreso total
 iniciado
 inicio del arrendamiento
 inmovilidad funcional
-inmovilidad geográfica
-inmovilización de los factores
+inmovilidad geografica
+inmovilizacion de los factores
 inmovilizado material
 inoperante
 input
 insider
 insolvencia
 insolvente
-institución de crédito
-instituciones de inversión colectiva
-instituciones de inversión colectiva de inversión libre
-institución financiera
+institucion de credito
+instituciones de inversion colectiva
+instituciones de inversion colectiva de inversion libre
+institucion financiera
 Instituto Nacional de Empleo
-Instituto Nacional de Estadística
-instrumento bursátil
+Instituto Nacional de Estadistica
+instrumento bursatil
 instrumento compuesto
 instrumento de cobertura
 instrumento de neto patrimonial
@@ -1761,88 +1762,90 @@ instrumento financiero compuesto
 instrumento financiero cotizado en un mercado activo
 instrumento financiero derivado
 instrumento primario
-instrumentos alternativos y sofisticados de inversión (IASI)
+instrumentos alternativos y sofisticados de inversion (IASI)
 instrumentos basados en tarjetas
 insumos
-intercambio electrónico de datos
-interés
-interés anticipado
-interés asegurable
-interés básico
-interés capitalizable
-interés compuesto
-interés de demora
-interés devengado
-interés diferido
-interés efectivo
+intercambio electronico de datos
+interes
+intereses
+interes anticipado
+interes asegurable
+interes basico
+interes capitalizable
+interes compuesto
+interes de demora
+interes devengado
+interes diferido
+interes efectivo
 intereses de mora
 intereses intercalarios
 intereses minoritarios
 intereses presuntos
-interés fijo
-interés hipotecario
-interés implícito
-interés interbancario
-interés nominal
-interés preferencial
-interés prepagable
-interés real
-interés simple
-interés subvencionado
-interés variable
-interés vencido
-intermediación
-intermediación financiera
+interes fijo
+interes hipotecario
+interes implicito
+interes interbancario
+interes nominal
+interes preferencial
+interes prepagable
+interes real
+interes simple
+interes subvencionado
+interes variable
+interes vencido
+intermediacion
+intermediacion financiera
 intermediar
-intermediario bursátil
+intermediario bursatil
 intermediario financiero
-internacionalización de la economía
-interoperatividad de los instrumentos en un sistema de pago o liquidación
-interpretación de la póliza
+internacionalizacion de la economia
+interoperatividad de los instrumentos en un sistema de pago o liquidacion
+interpretacion de la poliza
 intervencionismo
 intervenir
 interventor
 in the money
-intradía
+intradia
 inventarios
-inversión
-inversión bruta
-inversión bruta en el arrendamiento
-inversión colectiva
-inversión crediticia
-inversión de capital
-inversión de cartera
-inversión directa
+inversion
+inversion bruta
+inversion bruta en el arrendamiento
+inversion colectiva
+inversion crediticia
+inversion de capital
+inversion de cartera
+inversion directa
 inversiones mantenidas hasta el vencimiento
-inversión extranjera
-inversión financiera
-inversión financiera temporal
-inversión institucional
+inversion extranjera
+inversion financiera
+inversion financiera temporal
+inversion institucional
 inversionista
-inversión neta
-inversión neta en el arrendamiento
-inversión neta en una operación en el extranjero
-inversión permanente
+inversion neta
+inversion neta en el arrendamiento
+inversion neta en una operacion en el extranjero
+inversion permanente
 inversor
 inversor en un negocio conjunto
 inversor informal
 inversor institucional
 IPC
 IPF
+IVA
 irredimible
-irrevocabilidad (o consolidación)
+irrevocabilidad (o consolidacion)
 islote
 isocosto
 isomargen
-jerarquía financiera
+jerarquia financiera
 JIT
 jornada
 jornada laboral
 jornal
 jornalero
-jubilación
-jubilación anticipada
-jubilación ordinaria
+jubilacion
+jubilacion anticipada
+jubilacion ordinaria
 juego de empresa
 jugar a la baja
 jugar a la Bolsa
@@ -1863,9 +1866,9 @@ KIRB
 kiwi
 laissez faire, laissez passer
 lanzar al mercado
-lanzar una emisión de valores
+lanzar una emision de valores
 largo plazo
-lavado de cupón
+lavado de cupon
 lavado de dinero
 LBO (Leverage Buy-Out)
 leasing
@@ -1901,11 +1904,11 @@ ley de la utilidad marginal decreciente
 Ley del mercado de valores
 ley de los rendimientos decrecientes
 ley de Okun
-Ley de Sociedades Anónimas
+Ley de Sociedades Anonimas
 leyes de Engel
 leyes del mercado
 LGD
-liberalismo económico
+liberalismo economico
 liberalismo progresista
 libertad de comercio
 libertad de entrada
@@ -1920,71 +1923,71 @@ librecambista
 libre empresa
 libreta de ahorros
 licencia
-licitación
+licitacion
 licitador
 licitar
 LIFFE
 LIFO
-límite de cambio
-límite de crédito
-límite de crédito de contraparte
-límite de posición
-línea caliente
-línea de crédito
-línea de descuento
-línea de flotación
-línea de productos
-línea de resistencia
-línea directriz
-línea directriz alcista
-línea directriz bajista
-línea presupuestaria
-liquidación
-liquidación diaria
-liquidación firme
-liquidación forzada
-liquidación interna
-liquidación por diferencias
-liquidación transfronteriza
-liquidación tributaria
+limite de cambio
+limite de credito
+limite de credito de contraparte
+limite de posicion
+linea caliente
+linea de credito
+linea de descuento
+linea de flotacion
+linea de productos
+linea de resistencia
+linea directriz
+linea directriz alcista
+linea directriz bajista
+linea presupuestaria
+liquidacion
+liquidacion diaria
+liquidacion firme
+liquidacion forzada
+liquidacion interna
+liquidacion por diferencias
+liquidacion transfronteriza
+liquidacion tributaria
 liquidador
 liquidar
 liquidez
-liquidez intradía
+liquidez intradia
 lista de paridades
 llave en mano
 Lloyd´s of London
 lobby
-lote de órdenes
+lote de ordenes
 lucro
 lucro cesante
-macroeconomía
+macroeconomia
 macro global
 mala fe
 mal de altura
-malversación
+malversacion
 malversar
 mandante
 mandatario
 mandato
 mandato de pago
-manipulación del mercado
-manos débiles
+manipulacion del mercado
+manos debiles
 manos fuertes
 manufactura
 maquillaje
 maquillar
 maquillar las cuentas
-marca de fábrica
+marca de fabrica
 marca registrada
-marco alemán
+marco aleman
 marco institucional
-marco jurídico
+marco juridico
 margen
 margen de beneficio
-margen de explotación
-margen de fluctuación
-margen de intermediación
+margen de explotacion
+margen de fluctuacion
+margen de intermediacion
 margen de seguridad
 margen financiero
 margen ordinario
@@ -1998,24 +2001,24 @@ matador
 matching
 material
 materialidad
-materialismo dialéctico
+materialismo dialectico
 materia prima
 MATIFF
 MBO
 media
-media aritmética
-media cuadrática
+media aritmetica
+media cuadratica
 mediador de seguros
 mediador financiero
-media geométrica
-media móvil
+media geometrica
+media movil
 media ponderada
 media proporcional
 medio de cambio
 medio de pago
 medio plazo
 MEFF
-memorándum de oferta
+memorandum de oferta
 memoria anual
 mercado
 mercado activo
@@ -2025,24 +2028,24 @@ mercado al contado
 mercado a medida
 mercado a plazo
 mercado bajista
-mercado bursátil
+mercado bursatil
 mercado cambiario
 mercado ciego
-mercado común
+mercado comun
 mercado continuo
 mercado de bienes y servicios
 mercado de cambios
 mercado de capitales
 mercado de capital riesgo
 mercado de corros
-mercado de crédito
+mercado de credito
 mercado de derivados
 mercado de dinero
 mercado de divisas
 mercado de divisas al contado
 mercado de divisas a plazo
-mercado de emisión
-mercado de factores de producción
+mercado de emision
+mercado de factores de produccion
 mercado de futuros
 mercado del ahorro
 mercado de opciones
@@ -2051,7 +2054,7 @@ mercado de renta variable
 mercado de trabajo
 mercado de valores
 mercado eficiente
-mercado electrónico
+mercado electronico
 mercado emergente
 Mercado Español de futuros Financieros (MEFF)
 mercado exterior
@@ -2059,12 +2062,12 @@ mercado financiero
 mercado flexible
 mercado gris
 mercado hipotecario
-mercado interbancario de depósitos
+mercado interbancario de depositos
 mercado libre
 mercado monetario
 mercado monopolizado
 mercado negro
-mercado oligopolístico
+mercado oligopolistico
 mercado organizado
 mercado OTC
 mercado paralelo
@@ -2073,47 +2076,47 @@ mercado regulado
 mercado secundario
 mercado spot
 mercadotecnia
-mercado telefónico
-mercado volátil
+mercado telefonico
+mercado volatil
 mercantilismo
 mesa de cambios
 metalismo
-método de consolidación
-método de integración global
-método de la participación
-método de la unidad de crédito proyectada
-método del coste
-método del coste promedio ponderado
-método del interés efectivo
-método de los beneficios acumulados en proporción a los servicios prestados
-método de los beneficios por año de servicio
-método del porcentaje de terminación
-método de puesta en equivalencia
-método directo
-método indirecto
-método IRB
-método just in time o justo a tiempo
-metodología PIT (point in time)
+metodo de consolidacion
+metodo de integracion global
+metodo de la participacion
+metodo de la unidad de credito proyectada
+metodo del coste
+metodo del coste promedio ponderado
+metodo del interes efectivo
+metodo de los beneficios acumulados en proporcion a los servicios prestados
+metodo de los beneficios por año de servicio
+metodo del porcentaje de terminacion
+metodo de puesta en equivalencia
+metodo directo
+metodo indirecto
+metodo IRB
+metodo just in time o justo a tiempo
+metodologia PIT (point in time)
 MIBOR
 MIBTEL
-microcréditos
-microeconomía
+microcreditos
+microeconomia
 MID-50
 miembro compensador
 miembro de Bolsa
 millardo
 minorar
-minusvalía
+minusvalia
 mobiliario
-modelo de valoración de activos
-modelo econométrico
-modelo económico
+modelo de valoracion de activos
+modelo econometrico
+modelo economico
 moneda
 moneda base
 moneda convertible
 moneda corriente
 moneda cortada
-moneda débil
+moneda debil
 moneda de cuenta
 moneda depreciada
 moneda de reserva
@@ -2128,12 +2131,12 @@ moneda funcional
 moneda imaginaria
 moneda inestable
 moneda mixta
-moneda única
-monedero electrónico
+moneda unica
+monedero electronico
 monetarismo
 monetizable
-monetización
-monetización de la deuda
+monetizacion
+monetizacion de la deuda
 monetizar
 monometalismo
 monopolio
@@ -2147,7 +2150,7 @@ monopolista
 monopsonio
 monopsonista
 Monte de Piedad
-montepío
+montepio
 monto
 mora
 moratoria
@@ -2155,26 +2158,26 @@ morosidad
 moroso
 movilidad del factor trabajo
 movilidad funcional
-movilidad geográfica
+movilidad geografica
 movilidad horizontal
 movilidad vertical
 movimiento internacional de capitales
 multa
 multa coercitiva
 multinacional
-multiplicador de la inversión
+multiplicador de la inversion
 multiplicador de la renta
 mutua de seguros
 mutualidad
 mutualidad obrera
 mutualista
 mutuo
-nacionalización
+nacionalizacion
 nacionalizar
 nacionalizarse
 NASDAQ
 NASDAQ EUROPE
-neckline (línea de clavícula)
+neckline (linea de clavicula)
 negociable
 negociar
 negocio
@@ -2189,62 +2192,64 @@ Nikkei
 nivel de competencia
 nivel de incompetencia
 nivel de precios
-nivel de producción potencial
+nivel de produccion potencial
 nivel de vida
-no compensación
+no compensacion
 no cotizado
 nombre comercial
+nomina
+nomina
 nominal
 nominativo
 no residente
-Normas Internacionales de Información Financiera (NIIF)
+Normas Internacionales de Informacion Financiera (NIIF)
 nostro
 nota bancaria
 nota marginal
-notificación
-notificación de siniestro
-novación del contrato de seguro
+notificacion
+notificacion de siniestro
+novacion del contrato de seguro
 novar
-Nueva Escuela Clásica
-Nueva Macroeconomía Clásica
+Nueva Escuela Clasica
+Nueva Macroeconomia Clasica
 Nuevo mercado
 numerario
-número de cuenta bancaria
-Número de Operación Financiera (NOF)
-números comerciales
-números redondos
-números rojos
+numero de cuenta bancaria
+Numero de Operacion Financiera (NOF)
+numeros comerciales
+numeros redondos
+numeros rojos
 NYSE
-objeción fiscal
+objecion fiscal
 objeto del (de un) seguro
 objeto social
-obligación
-obligación a la vista
-obligación al portador
-obligación bonificada
-obligación canjeable
-obligación con prima
-obligación convertible
-obligación denominada en dos divisas
-obligación de renta variable
-obligación diferida
-obligación en serie
+obligacion
+obligacion a la vista
+obligacion al portador
+obligacion bonificada
+obligacion canjeable
+obligacion con prima
+obligacion convertible
+obligacion denominada en dos divisas
+obligacion de renta variable
+obligacion diferida
+obligacion en serie
 obligaciones de deuda
 obligaciones de la entidad aseguradora
 obligaciones del asegurado
 obligaciones del Estado
-obligación garantizada
-obligación hipotecaria
+obligacion garantizada
+obligacion hipotecaria
 obligacionista
-obligación nominativa
-obligación participativa
-obligación perpetua
-obligación preferente
-obligación privilegiada
-obligación simple
-obligación societaria
-obligación viva
-ocultación
+obligacion nominativa
+obligacion participativa
+obligacion perpetua
+obligacion preferente
+obligacion privilegiada
+obligacion simple
+obligacion societaria
+obligacion viva
+ocultacion
 oferta
 oferta agregada
 oferta conjunta
@@ -2253,20 +2258,20 @@ oferta de canje de acciones
 oferta de canje de obligaciones
 oferta de empleo
 oferta de trabajo
-oferta elástica
-oferta inelástica
+oferta elastica
+oferta inelastica
 oferta monetaria (M1)
 oferta monetaria ampliada (M2)
 ofertante
 oferta privada de acciones
-oferta pública de adquisición (OPA)
-oferta pública de venta (OPV)
-oferta pública inicial (OPI)
+oferta publica de adquisicion (OPA)
+oferta publica de venta (OPV)
+oferta publica inicial (OPI)
 oferta vinculante
 oficina administrativa
 oficina bancaria
 oficina de cambio
-oficina de representación
+oficina de representacion
 OICVM
 oligopolio
 oligopsonio
@@ -2278,57 +2283,57 @@ onza de oro
 onza troy
 OPA
 OPA amistosa
-OPA de exclusión
+OPA de exclusion
 OPA hostil
-opción
-opción americana
-opción call
-opción de compra
-opción de venta
-opción europea
-opción put
-opción sobre acciones
-opción sobre IBEX-35
-opción sobre tipos de interés
-operación
-operación acordeón
-operación al contado
-operación a plazo
-operación bancaria
-operación bursátil
-operación casada
-operación con prima
-operación con prima de emisión
-operación de activo
-operación de arbitraje
-operación de garantía
-operación de pasivo
-operación de riesgo condicionado
-operación de riesgo pleno
-operación en firme
-operaciones compensadas de intermediación por cuenta propia
+opcion
+opcion americana
+opcion call
+opcion de compra
+opcion de venta
+opcion europea
+opcion put
+opcion sobre acciones
+opcion sobre IBEX-35
+opcion sobre tipos de interes
+operacion
+operacion acordeon
+operacion al contado
+operacion a plazo
+operacion bancaria
+operacion bursatil
+operacion casada
+operacion con prima
+operacion con prima de emision
+operacion de activo
+operacion de arbitraje
+operacion de garantia
+operacion de pasivo
+operacion de riesgo condicionado
+operacion de riesgo pleno
+operacion en firme
+operaciones compensadas de intermediacion por cuenta propia
 operaciones concatenadas
 operaciones de compraventa con pacto de recompra
 operaciones de mercado abierto
 operaciones por cuenta propia
-operación fallida
-operación financiera
-operación intradía
-operación OTC
-operación transfronteriza
+operacion fallida
+operacion financiera
+operacion intradia
+operacion OTC
+operacion transfronteriza
 operador
 operar
 OPI
 OPS
-optimización de recursos
+optimizacion de recursos
 optimizar
 OPV
-órdago
+ordago
 orden abierta
-orden al harán
+orden al haran
 ordenante
 orden aplicada
-orden bursátil
+orden bursatil
 orden de pago
 orden de pago documentaria
 orden de pago simple
@@ -2336,10 +2341,10 @@ orden fill or kill
 orden incondicional de pago de cheque
 orden limitada
 orden por lo mejor
-Organismos de Inversión Colectiva en Valores Mobiliarios (OICVM)
-Organización de Cooperación y Desarrollo Económicos (OCDE)
-Organización Mundial de Comercio (OMC)
-oscilador técnico
+Organismos de Inversion Colectiva en Valores Mobiliarios (OICVM)
+Organizacion de Cooperacion y Desarrollo Economicos (OCDE)
+Organizacion Mundial de Comercio (OMC)
+oscilador tecnico
 OTC
 out of the money
 pactar
@@ -2349,40 +2354,40 @@ pacto entre caballeros
 pacto social
 pagar
 pagar al vencimiento
-pagaré
-pagaré a la orden
-pagaré bancario
-pagaré bursátil
-pagaré con interés variable inverso a la tasa de referencia
-pagaré de empresa
-pagaré del Tesoro
-pagaré descontado
-pagaré nominativo
+pagare
+pagare a la orden
+pagare bancario
+pagare bursatil
+pagare con interes variable inverso a la tasa de referencia
+pagare de empresa
+pagare del Tesoro
+pagare descontado
+pagare nominativo
 pago
 pago a cuenta
 pago aplazado
 pago de contrapartida
-pago de indemnización
+pago de indemnizacion
 pago de prima
 pago directo
 pago en especie
 pago liberatorio
-pago mínimo
+pago minimo
 pago parcial
 pago por adelantado
 pago por transferencia
 pago presencial
 pago vencido
-país desarrollado
-país emergente
-país en vías de desarrollo
-país insolvente
-país subdesarrollado
+pais desarrollado
+pais emergente
+pais en vias de desarrollo
+pais insolvente
+pais subdesarrollado
 papel
 papel al portador
-papel bursátil
+papel bursatil
 papel comercial
-papel de crédito
+papel de credito
 papel del Estado
 papeleta de empeño
 papel financiero
@@ -2390,10 +2395,10 @@ papel moneda
 papel pelota
 papel redescontable
 paquete de acciones
-paquete de títulos
+paquete de titulos
 par
 para abono en cuenta
-paraíso fiscal
+paraiso fiscal
 paridad
 paridad cubierta
 paridad de intereses
@@ -2401,7 +2406,7 @@ paridad del poder adquisitivo (PPA)
 paridad fija
 paridad flotante
 paro
-paro cíclico
+paro ciclico
 paro coyuntural
 paro de trabajo
 paro encubierto
@@ -2409,20 +2414,20 @@ paro estacional
 paro estructural
 paro friccional
 paro registrado
-paro técnico
+paro tecnico
 parte alicuanta
-parte alícuota
+parte alicuota
 parte decimal
 parte entera
 parte fraccionaria
 partes relacionadas
-participación
-participación cruzada
-participación hipotecaria
-participación preferente
-partícipe
+participacion
+participacion cruzada
+participacion hipotecaria
+participacion preferente
+participe
 partida
-partida estadística
+partida estadistica
 partida monetaria
 partida no monetaria
 PASF
@@ -2441,66 +2446,66 @@ patrimonio
 patrimonio bruto
 patrimonio del Estado
 patrimonio financiero
-patrimonio líquido
+patrimonio liquido
 patrimonio nacional
 patrimonio neto
 patrimonio real
-patrón monetario
-patrón oro
+patron monetario
+patron oro
 pauta
 pay-in
 pay-out
 PB
 PD
 pelotear
-pensión
-pensión compensatoria
-pensión contributiva
-pensión mínima garantizada
-pensión no contributiva
-pensión vitalicia
+pension
+pension compensatoria
+pension contributiva
+pension minima garantizada
+pension no contributiva
+pension vitalicia
 PER
-pérdida
-pérdida en caso de incumplimiento
-pérdida esperada
-pérdida fiscal
+perdida
+perdida en caso de incumplimiento
+perdida esperada
+perdida fiscal
 periodificar
 periodo de canje
 periodo de espera
 periodo de gracia
-periodo de maduración
-peritación
+periodo de maduracion
+peritacion
 perito
 perjudicado
 permuta de acciones
 permuta financiera
-persona física
-persona jurídica
+persona fisica
+persona juridica
 persona moral
 peseta
-petición competitiva
-petición no competitiva
-petrodólares
+peticion competitiva
+peticion no competitiva
+petrodolares
 PIB
 PIB nominal
 PIB real
-pignoración
+pignoracion
 pignorar
-píldora venenosa
-píldora venenosa suicida
+pildora venenosa
+pildora venenosa suicida
 PIN
-piramidación
+piramidacion
 pirata
 piratear
 pirateo
-pista de auditoría
+pista de auditoria
 plain vanilla
 plan
-Plan de acción para los servicios financieros (PASF)
-plan de amortización
+Plan de accion para los servicios financieros (PASF)
+plan de amortizacion
 plan de desarrollo
-plan de estabilización
-plan de jubilación
+plan de estabilizacion
+plan de jubilacion
 plan de pensiones
 planes de aportaciones o contribuciones definidas
 planes de prestaciones definidas
@@ -2509,144 +2514,144 @@ planes multiempresariales de prestaciones
 plan financiero
 Plan General de Contabilidad
 plaza
-plaza bursátil
+plaza bursatil
 plazo
 plazo de arrendamiento
 plazo de carencia
 plazo de carencia absoluta
 plazo de gracia
-plazo de suscripción
-plazo de suscripción preferente
+plazo de suscripcion
+plazo de suscripcion preferente
 pleito
 pleno empleo
 pliopolio
 pluriempleo
-plusvalía
-plusvalía comprada
-plusvalía latente
-plusvalía potencial
-plusvalía teórica
+plusvalia
+plusvalia comprada
+plusvalia latente
+plusvalia potencial
+plusvalia teorica
 PNB
-población activa
-población ocupada
+poblacion activa
+poblacion ocupada
 poder adquisitivo
 poderdante
 poder de mercado
-poder económico
+poder economico
 poderhabiente
-política
-política anticíclica
-política contable
-política coyuntural
-política de dividendos
-política de rentas
-política económica
-política fiscal
-política monetaria
-póliza
-póliza de afianzamiento
-póliza de crédito
-póliza de préstamo
-ponderación
+politica
+politica anticiclica
+politica contable
+politica coyuntural
+politica de dividendos
+politica de rentas
+politica economica
+politica fiscal
+politica monetaria
+poliza
+poliza de afianzamiento
+poliza de credito
+poliza de prestamo
+ponderacion
 ponderar
 por adelantado
 porcentaje
 por lo mejor
 portador
-posición
-posición acreedora
-posición alcista
-posición bajista
-posición compradora
-posición corta
-posición deudora
-posición dinero
-posición en divisas
-posición financiera
-posición larga
-posición papel
-posición vendedora
+posicion
+posicion acreedora
+posicion alcista
+posicion bajista
+posicion compradora
+posicion corta
+posicion deudora
+posicion dinero
+posicion en divisas
+posicion financiera
+posicion larga
+posicion papel
+posicion vendedora
 postdatar
-postfinanciación
+postfinanciacion
 postindustrial
 potencial
-práctica discriminatoria 
-prácticas bancarias
-prácticas laborales restrictivas
+practica discriminatoria 
+practicas bancarias
+practicas laborales restrictivas
 preaval
 precio
 precio al contado
-precio de adquisición
-precio de amortización
+precio de adquisicion
+precio de amortizacion
 precio de cierre
-precio de conversión
+precio de conversion
 precio de ejercicio
-precio de emisión
+precio de emision
 precio del dinero
 precio de mercado
 precio de oferta
 precio de paridad
-precio ex cupón
+precio ex cupon
 precio indicativo
-precio político
-precio público
+precio politico
+precio publico
 precio sombra
-precio teórico
-predicción bursátil
-prefinanciación
-prejubilación
-prelación de créditos
-prelación de pagos
+precio teorico
+prediccion bursatil
+prefinanciacion
+prejubilacion
+prelacion de creditos
+prelacion de pagos
 prenda
 prescribir
-prescripción
+prescripcion
 presidente
 presidente honorario
-presión fiscal
-prestación
+presion fiscal
+prestacion
 prestaciones a los empleados
 prestaciones a los empleados a corto plazo
 prestaciones garantizadas
-prestadores de servicios de compensación y liquidación
+prestadores de servicios de compensacion y liquidacion
 prestamista
-préstamo
-préstamo a la gruesa
-préstamo a la vista
-préstamo a tipo fijo
-préstamo a tipo variable
-préstamo bancario
-préstamo condonable
-préstamo de avío
-préstamo de habilitación
-préstamo de uso
-préstamo de valores
-préstamo hipotecario
-préstamo mercantil
-préstamo participativo
-préstamo personal
-préstamo puente
-préstamo reembolsable al vencimiento
-préstamo sindicado
-préstamo sobre póliza
-préstamos por pagar
+prestamo
+prestamo a la gruesa
+prestamo a la vista
+prestamo a tipo fijo
+prestamo a tipo variable
+prestamo bancario
+prestamo condonable
+prestamo de avio
+prestamo de habilitacion
+prestamo de uso
+prestamo de valores
+prestamo hipotecario
+prestamo mercantil
+prestamo participativo
+prestamo personal
+prestamo puente
+prestamo reembolsable al vencimiento
+prestamo sindicado
+prestamo sobre poliza
+prestamos por pagar
 prestatario
 prestatario de servicio
 presupuesto
 presupuesto base cero
 presupuesto por programas
 Presupuestos Generales del Estado
-prevención de riesgos
+prevencion de riesgos
 prima
 prima cambiaria
-prima de amortización
-prima de emisión
+prima de amortizacion
+prima de emision
 prima de rescate
 prima de riesgo
 prima suplementaria
 principal
 principio de devengo
 principio de Dilbert
-principio de exclusión
+principio de exclusion
 principio del fondo sobre la forma
 principio de negocio en marcha
 principio de neutralidad
@@ -2654,16 +2659,16 @@ principio de neutralidad del capital (Basilea II)
 principio de Peter
 principio de prudencia
 privativo
-privatización
+privatizacion
 privatizar
 probabilidad de impago (PD)
 procedimiento
 procedimiento administrativo
 proceso acumulativo
 proceso productivo
-producción
-producción de seguros
-producción potencial
+produccion
+produccion de seguros
+produccion potencial
 productividad
 productividad del capital
 productividad marginal
@@ -2674,54 +2679,54 @@ producto industrial
 Producto Interior Bruto (PIB)
 Producto Nacional Bruto (PNB)
 productor
-productos básicos
+productos basicos
 programa de ajuste estructural
-promedio ponderado de las acciones ordinarias en circulación durante el ejercicio
-promoción
+promedio ponderado de las acciones ordinarias en circulacion durante el ejercicio
+promocion
 promotor inmobiliario
-pronóstico
-propensión marginal al ahorro
-propensión marginal al consumo
-propiedad de inversión
+pronostico
+propension marginal al ahorro
+propension marginal al consumo
+propiedad de inversion
 propiedad efectiva
 propiedades, planta y equipo
 propiedad industrial
 propiedad intelectual
 propiedad ocupada por el dueño
 propio asegurador
-proposición de seguro
+proposicion de seguro
 prorrata
 prorrateo
-prórroga de seguro
-prospección
-prospección de mercados
+prorroga de seguro
+prospeccion
+prospeccion de mercados
 prospecto
 proteccionismo
 protestar una letra
 protesto
 protocolo
 proveedor
-provisión de fondos
+provision de fondos
 provisiones
-provisiones técnicas
-provisión genérica
-provisión matemática
-provisión para insolvencias
+provisiones tecnicas
+provision generica
+provision matematica
+provision para insolvencias
 proyecciones financieras
 proyecto de seguro
-prueba de adecuación del pasivo
+prueba de adecuacion del pasivo
 prueba del daño
-prueba de tensión
+prueba de tension
 prueba pericial
 puja
 pull back
 punto
-punto básico
+punto basico
 punto de elasticidad
 punto de equilibrio financiero
 punto de resistencia
 punto de ruptura
-punto de saturación
+punto de saturacion
 punto muerto
 punto y figura
 put
@@ -2738,14 +2743,14 @@ quiebra forzosa
 quiebra fraudulenta
 quiebra voluntaria
 quirografario
-quirógrafo
+quirografo
 quita
 quita y espera
-quórum
-racionalidad económica
+quorum
+racionalidad economica
 racionamiento
 racionamiento de capital
-racionamiento del crédito
+racionamiento del credito
 raider
 rama industrial
 ramo de seguros
@@ -2754,12 +2759,12 @@ RAROC
 RARORAC
 rating
 ratio
-ratio ácido
+ratio acido
 ratio BIS
-ratio de autonomía financiera
+ratio de autonomia financiera
 ratio de cobertura
 ratio de cobertura de intereses
-ratio de concentración de riesgos
+ratio de concentracion de riesgos
 ratio de distancia a la quiebra
 ratio de eficiencia
 ratio de endeudamiento
@@ -2770,8 +2775,8 @@ ratio de rentabilidad del capital
 ratio de solvencia
 ratio precio/ganancia
 ratio q
-ratio rápido de activo
-razón social
+ratio rapido de activo
+razon social
 reajuste contable
 real
 realizable
@@ -2781,30 +2786,30 @@ realizable contingente
 realizable funcional
 realizable incierto
 realizable no funcional
-realización
-realización de beneficios
-realización de pérdidas
+realizacion
+realizacion de beneficios
+realizacion de perdidas
 realizar beneficios
-realizar pérdidas
+realizar perdidas
 reaseguradora
 reaseguro
 recargo
-recesión
-recibí
+recesion
+recibi
 recibo
 recibo de cartera
 recibo de depositario
-recibo de nueva producción
+recibo de nueva produccion
 recibo de prima
 recibo finiquito
 recompra
 reconocimiento contable
 reconocimiento de deuda
-reconversión
-reconversión industrial
-rectángulo
-recuperación
-recuperación económica
+reconversion
+reconversion industrial
+rectangulo
+recuperacion
+recuperacion economica
 recurso
 recursos
 recursos ajenos
@@ -2817,39 +2822,39 @@ recursos productivos
 recursos propios
 red de sucursales
 redescuento
-redistribución
-rédito
+redistribucion
+redito
 redondear
 redondeo de precios
-reducción de capital
-reducción del riesgo
-reducción de un plan de beneficios definidos
+reduccion de capital
+reduccion del riesgo
+reduccion de un plan de beneficios definidos
 reembolso
-reestructuración
-reestructuración de la deuda
-reexpresión retroactiva
-refinanciación
+reestructuracion
+reestructuracion de la deuda
+reexpresion retroactiva
+refinanciacion
 reforma laboral
 reforma monetaria
 reformas estructurales
-refundición
-regalía
-régimen corporativista
-régimen de inversión
-regionalización
-región deprimida
+refundicion
+regalia
+regimen corporativista
+regimen de inversion
+regionalizacion
+region deprimida
 registro contable
 registro de aceptaciones impagadas (RAI)
 Registro de Bancos y Banqueros
 registro de impagados
 Registro de la Propiedad
 Registro Especial de Cajas Generales de Ahorro Popular
-Registro Especial de Cooperativas de Crédito
+Registro Especial de Cooperativas de Credito
 Registro Mercantil
 reglamento
 regularizar
 reintegro
-reinversión
+reinversion
 relanzamiento
 relevancia
 remanente
@@ -2859,13 +2864,14 @@ remesa de emigrantes
 remuneraciones
 rendimiento
 rendimiento al vencimiento
-rendimiento del mercado bursátil
-rendimiento explícito
-rendimiento implícito
+rendimiento del mercado bursatil
+rendimiento explicito
+rendimiento implicito
 rendimientos de los activos del plan de prestaciones a los empleados
-renovación de deuda
-renovación del seguro
+renovacion de deuda
+renovacion del seguro
 renta
+rentase
 renta acumulada
 renta anual
 rentabilidad
@@ -2878,7 +2884,7 @@ renta disponible (RD)
 renta familiar
 renta fija
 renta nacional
-renta per cápita
+renta per capita
 renta variable
 renta vitalicia
 renta vitalicia conjunta
@@ -2895,17 +2901,17 @@ rescatar una sociedad
 rescatar un efecto
 rescate
 rescindir
-rescisión anticipada
+rescision anticipada
 Reserva Federal (FED)
 reserva legal
-reserva matemática
+reserva matematica
 reservas
 reservas bancarias
 reservas de divisas
 reservas estatutarias
-reservas tácitas
+reservas tacitas
 reservas voluntarias
-resguardo de depósito
+resguardo de deposito
 residente
 resistencia
 responsabilidad civil
@@ -2919,25 +2925,25 @@ resultados
 resultados extraordinarios
 resultados ordinarios
 resultados recurrentes
-retención
-retención tributaria
+retencion
+retencion tributaria
 reticencia en las declaraciones del asegurado
 retirada de billetes
 retirada de bonos
 retirado
 retiro
-retorno de la inversión
-retribución
-retribución en especie
+retorno de la inversion
+retribucion
+retribucion en especie
 retroactividad
 retroactivo
-revalorización
-revalorización automática del seguro
-revaluación
-revisión salarial
-revocación
+revalorizacion
+revalorizacion automatica del seguro
+revaluacion
+revision salarial
+revocacion
 revocar
-Revolución Industrial
+Revolucion Industrial
 revolvente
 revolving
 riesgo
@@ -2946,23 +2952,23 @@ riesgo crediticio
 riesgo de base
 riesgo de cambio
 riesgo de contrapartida
-riesgo de crédito
+riesgo de credito
 riesgo de custodia
-riesgo de depósito en efectivo
+riesgo de deposito en efectivo
 riesgo de firma
 riesgo de firmeza
-riesgo de liquidación de divisas
+riesgo de liquidacion de divisas
 riesgo de liquidez
 riesgo de mercado
-riesgo de reversión
+riesgo de reversion
 riesgo de seguro
 riesgo de tipo de cambio
-riesgo de tipo de interés
-riesgo específico
+riesgo de tipo de interes
+riesgo especifico
 riesgo financiero
 riesgo operativo
-riesgo país
-riesgo sistemático
+riesgo pais
+riesgo sistematico
 riesgos relacionados con un activo arrendado
 riesgo vivo
 rigidez del mercado
@@ -2975,7 +2981,7 @@ ROE
 rollover
 RORAC
 RORWA
-rotación de inventario
+rotacion de inventario
 royalty
 RRE
 RRN
@@ -2986,8 +2992,8 @@ S&P 500
 S&P Global 1200
 sala de cambios
 salario
-salario mínimo
-Salario Mínimo Interprofesional
+salario minimo
+Salario Minimo Interprofesional
 salario social
 saldar
 saldo
@@ -3002,10 +3008,10 @@ saldo vivo
 salida a bolsa
 salida de divisas
 samurai
-sanción
+sancion
 sancionar
 saneamiento
-sanear la economía
+sanear la economia
 scoring
 SEBC
 SEC
@@ -3015,12 +3021,12 @@ sector financiero
 sector industrial
 sector primario
 sector privado
-sector público
+sector publico
 sector secundario
 sector terciario
-segmentación de mercado
+segmentacion de mercado
 segmento del negocio
-segmento geográfico
+segmento geografico
 segunda ventanilla
 segundo mercado
 seguridad
@@ -3029,7 +3035,7 @@ seguro
 seguro acumulativo
 seguro adicional
 seguro agrario combinado
-seguro agrícola
+seguro agricola
 seguro a plazo fijo
 seguro a todo riesgo
 seguro colectivo
@@ -3040,47 +3046,47 @@ seguro de accidentes de trabajo
 seguro de accidentes individuales
 seguro de accidentes personales
 seguro de ahorro
-seguro de amortización de préstamo
+seguro de amortizacion de prestamo
 seguro de asistencia en viaje
 seguro de asistencia sanitaria
-seguro de automóviles
-seguro de aviación
+seguro de automoviles
+seguro de aviacion
 seguro de beneficios
-seguro de cancelación de eventos
+seguro de cancelacion de eventos
 seguro de capital
 seguro de capital de supervivencia
 seguro de capital diferido
-seguro de capitalización
-seguro de caución
-seguro de construcción
-seguro de crédito
-seguro de crédito a la exportación
+seguro de capitalizacion
+seguro de caucion
+seguro de construccion
+seguro de credito
+seguro de credito a la exportacion
 seguro de daños
 seguro de decesos
 seguro de defensa criminal
 seguro de desempleo
-seguro de dinero en tránsito
+seguro de dinero en transito
 seguro de enfermedad
 seguro de errores y omisiones
 seguro de flete
 seguro de ganado
 seguro de incendio
 seguro de invalidez
-seguro de jubilación
+seguro de jubilacion
 seguro de lucro cesante
 seguro de maquinaria
 seguro de montaje
 seguro de ocupantes
 seguro de orfandad
 seguro de pedrisco
-seguro de pérdida de alquileres
-seguro de pérdida de beneficios
+seguro de perdida de alquileres
+seguro de perdida de beneficios
 seguro de personas
-seguro de prestación de servicios
+seguro de prestacion de servicios
 seguro de prima temporal
-seguro de prima única
-seguro de ramos técnicos
-seguro de reclamación de daños
+seguro de prima unica
+seguro de ramos tecnicos
+seguro de reclamacion de daños
 seguro de renta
 seguro de renta vitalicia inmediata
 seguro de responsabilidad civil
@@ -3100,7 +3106,7 @@ seguro en caso de vida
 seguro estatal
 seguro individual de vida
 seguro integral de cereales
-seguro marítimo
+seguro maritimo
 seguro mixto
 seguro mixto completo
 seguro mixto doble
@@ -3108,7 +3114,7 @@ seguro mixto revalorizable
 seguro mixto simple
 seguro mixto variable
 seguro obligatorio
-seguro obligatorio de automóviles
+seguro obligatorio de automoviles
 seguro obligatorio de viajeros
 seguro privado
 seguro prorrogado
@@ -3120,29 +3126,29 @@ seguro temporal con reembolso de primas
 seguro temporal constante
 seguro temporal regularmente creciente
 seguro temporal regularmente decreciente
-seguro voluntario de automóviles
-selección de riesgos
+seguro voluntario de automoviles
+seleccion de riesgos
 semovientes
 serie de Fibonacci
 serpiente monetaria
 servicio de la deuda
 servicio postventa
-servicios de atención al cliente
+servicios de atencion al cliente
 servicios financieros comprometidos
 sesgo
-sesión
+sesion
 severidad
 SIB
 SICAV
 SIM
-simulación
-sindicación
+simulacion
+sindicacion
 sindicado
 sindicato
 sindicato bancario
 sindicato de accionistas
 sindicato de obligacionistas
-síndico
+sindico
 sinergia
 siniestro
 siniestro declarado
@@ -3156,38 +3162,38 @@ sistema bancario
 sistema ciego
 sistema crediticio
 sistema de anotaciones en cuenta
-sistema de autofinanciación
-sistema de compensación
-sistema de compensación transfronterizo
-sistema de compensación y liquidación
-sistema de cotización centralizado
-sistema de economía de mercado
-sistema de liquidación bruta al final del día
-sistema de liquidación bruta en tiempo real
-sistema de liquidación de valores
-sistema de liquidación de valores-emisor
-sistema de liquidación de valores-inversor
-sistema de liquidación neta diferida
+sistema de autofinanciacion
+sistema de compensacion
+sistema de compensacion transfronterizo
+sistema de compensacion y liquidacion
+sistema de cotizacion centralizado
+sistema de economia de mercado
+sistema de liquidacion bruta al final del dia
+sistema de liquidacion bruta en tiempo real
+sistema de liquidacion de valores
+sistema de liquidacion de valores-emisor
+sistema de liquidacion de valores-inversor
+sistema de liquidacion neta diferida
 sistema de pago garantizado
-sistema de planificación centralizada
+sistema de planificacion centralizada
 sistema de sobregiro
 sistema de tenencia directa
 sistema de tipos de cambio flotantes
 sistema de transferencia de fondos
-sistema económico
-Sistema electrónico transeuropeo exprés de liquidación bruta en tiempo real (TARGET)
+sistema economico
+Sistema electronico transeuropeo expres de liquidacion bruta en tiempo real (TARGET)
 Sistema Europeo de Bancos Centrales (SEBC)
 sistema financiero
 sistema mercantilista
 sistema monetario
 Sistema Monetario Europeo
 Sistema Monetario Internacional
-situación del riesgo
-situación financiera
+situacion del riesgo
+situacion financiera
 SME
 SMI
 Smith, Adam
-soberanía monetaria
+soberania monetaria
 sobregiro
 sobre la par
 sobreprima
@@ -3196,8 +3202,8 @@ sobretasa
 sobrevalorar
 socialismo
 sociedad
-sociedad anónima
-sociedad anónima laboral
+sociedad anonima
+sociedad anonima laboral
 sociedad civil
 sociedad colectiva
 sociedad comanditaria
@@ -3211,11 +3217,11 @@ sociedad de bolsa
 sociedad de cartera
 sociedad de contrapartida
 sociedad de gananciales
-sociedad de inversión
-sociedad de inversión colectiva
-sociedad de inversión común
-sociedad de inversión de capital variable (SICAV)
-sociedad de inversión mobiliaria (SIM)
+sociedad de inversion
+sociedad de inversion colectiva
+sociedad de inversion comun
+sociedad de inversion de capital variable (SICAV)
+sociedad de inversion mobiliaria (SIM)
 sociedad de responsabilidad limitada
 sociedad en comandita
 sociedad filial
@@ -3230,15 +3236,15 @@ sociedad mediadora en el mercado de dinero
 sociedad mercantil
 sociedad no cotizada
 sociedad participada
-sociedad pública
+sociedad publica
 sociedad regular colectiva
-sociedad sin ánimo de lucro
+sociedad sin animo de lucro
 sociedad tenedora
 socio
 socio capitalista
 socio industrial
 socioliberalismo
-solicitud de crédito
+solicitud de credito
 solicitud de seguro
 solvencia
 sopera
@@ -3268,83 +3274,83 @@ subcustodio general
 subdesarrollo
 subemplear
 subempleo
-subrogación
+subrogacion
 subsidiaria
 subsidiario
 subsidio
-subvención
-subvención de capital
-subvención de explotación
+subvencion
+subvencion de capital
+subvencion de explotacion
 subvenciones relacionadas con activos
 subvenciones relacionadas con ingresos
 subyacente
 sucursal
-sucursal autónoma
+sucursal autonoma
 sueldo
 suelo durmiente
 suelo redondeado
 sujeto pasivo
 suma asegurada
-superávit
-superávit de caja
-superávit presupuestario
-supereconomía
-suplemento de póliza
+superavit
+superavit de caja
+superavit presupuestario
+supereconomia
+suplemento de poliza
 suposiciones actuariales
 suscribir
-suscribir una póliza
-suscripción
+suscribir una poliza
+suscripcion
 suscriptor
-suspensión de pagos
+suspension de pagos
 swap
-swap básico
+swap basico
 swap de divisas
-swap de tipos de interés
+swap de tipos de interes
 swap flotante
 SWIFT II
-tabla de amortización
+tabla de amortizacion
 tabla de mortalidad
 tabla financiera
 tabla input-output
 TAE
-talón
+talon
 talonario
 TARGET
 tarifa
 tarifa de primas
-tarifa mínima
+tarifa minima
 tarifa preferencial
-tarificación
-tarjeta de crédito
-tarjeta de crédito coemitida
-tarjeta de débito
-tarjeta de débito diferido
-tarjeta de garantía de cheques
-tarjeta electrónica
+tarificacion
+tarjeta de credito
+tarjeta de credito coemitida
+tarjeta de debito
+tarjeta de debito diferido
+tarjeta de garantia de cheques
+tarjeta electronica
 tarjetahabiente
 tarjeta inteligente
-tarjeta magnética
+tarjeta magnetica
 tasa
 tasa actuarial
 tasa anual equivalente (TAE)
-tasación
-tasa cupón
+tasacion
+tasa cupon
 tasa de actividad
 tasa de actividad relativa
-tasa de actualización
-tasa de amortización
+tasa de actualizacion
+tasa de amortizacion
 tasa de apalancamiento
 tasa de beneficio
 tasa de cambio
-tasa de conversión
-tasa de crecimiento económico
+tasa de conversion
+tasa de crecimiento economico
 tasa de descuento
 tasa de desempleo
-tasa de expansión
+tasa de expansion
 tasa de ganancia
-tasa de inflación
+tasa de inflacion
 tasa de intercambio
-tasa de interés
+tasa de interes
 tasa del mercado
 tasa de pleno empleo
 tasa de prima
@@ -3352,7 +3358,7 @@ tasa de redescuento
 tasa de referencia
 tasa interbancaria
 tasa interna de rentabilidad (TIR)
-tasa marginal de sustitución
+tasa marginal de sustitucion
 tasa natural
 tasa natural de desempleo
 tasa nominal
@@ -3373,22 +3379,22 @@ tendencia terciaria
 tenedor
 tenedor de acciones
 tener liquidez
-tensión de tesorería
-teoría cuantitativa del dinero
-teoría de Dow
-teoría de la utilidad cardinal
-teoría de la utilidad marginal
-teoría económica
+tension de tesoreria
+teoria cuantitativa del dinero
+teoria de Dow
+teoria de la utilidad cardinal
+teoria de la utilidad marginal
+teoria economica
 tercia parte
-términos monetarios, en
-términos nominales, en
-términos reales, en
-tesorería
-tesorería ociosa
-Tesoro Público
-test ácido de liquidez
+terminos monetarios, en
+terminos nominales, en
+terminos reales, en
+tesoreria
+tesoreria ociosa
+Tesoro Publico
+test acido de liquidez
 testaferro
-tiburón
+tiburon
 tick
 tier 1
 tier 2
@@ -3404,17 +3410,17 @@ tipo de cambio de contado
 tipo de cambio fijo
 tipo de cambio flotante
 tipo de cambio libre
-tipo de depósito
+tipo de deposito
 tipo de descuento
-tipo de emisión
-tipo de interés
-tipo de interés efectivo
-tipo de interés efectivo de un instrumento financiero
-tipo de interés implícito en el arrendamiento
-tipo de interés imputado
-tipo de interés incremental de los préstamos del arrendatario
-tipo de interés monetario
-tipo de interés nominal
+tipo de emision
+tipo de interes
+tipo de interes efectivo
+tipo de interes efectivo de un instrumento financiero
+tipo de interes implicito en el arrendamiento
+tipo de interes imputado
+tipo de interes incremental de los prestamos del arrendatario
+tipo de interes monetario
+tipo de interes nominal
 tipo del mercado monetario
 tipo de oferta interbancaria
 tipo de redescuento
@@ -3426,25 +3432,25 @@ TIR
 titular
 titularidad conjunta
 titularidad indistinta
-titulización
-titulización hipotecaria
-título
-título al portador
-título de crédito
-título de crédito al portador
-título de crédito nominativo
-título de deuda
-título de renta fija
-título de renta variable
-título ejecutivo
-título hipotecario
-título lucrativo
-título negociable
-título nominativo
-título oneroso
-título opcional
-título renovable
-título valor
+titulizacion
+titulizacion hipotecaria
+titulo
+titulo al portador
+titulo de credito
+titulo de credito al portador
+titulo de credito nominativo
+titulo de deuda
+titulo de renta fija
+titulo de renta variable
+titulo ejecutivo
+titulo hipotecario
+titulo lucrativo
+titulo negociable
+titulo nominativo
+titulo oneroso
+titulo opcional
+titulo renovable
+titulo valor
 tomador del seguro
 top
 tope
@@ -3452,17 +3458,17 @@ top redondeado
 tormenta financiera
 TPV
 trabajo
-tráfico de perfeccionamiento activo
+trafico de perfeccionamiento activo
 tramo
 trampa de liquidez
-transacción
-transacción con pagos basados en acciones
-transacción con pagos basados en acciones liquidada en efectivo
-transacción con pagos basados en acciones liquidada mediante instrumento de patrimonio
-transacción con partes relacionadas
-transacción de venta con arrendamiento posterior
-transacción en moneda extranjera
-transacción prevista
+transaccion
+transaccion con pagos basados en acciones
+transaccion con pagos basados en acciones liquidada en efectivo
+transaccion con pagos basados en acciones liquidada mediante instrumento de patrimonio
+transaccion con partes relacionadas
+transaccion de venta con arrendamiento posterior
+transaccion en moneda extranjera
+transaccion prevista
 transferencia
 transferencia bancaria
 transferencia bancaria por caja
@@ -3473,25 +3479,25 @@ transferencia en especie
 transferencia firme
 transferencias corrientes
 transferencias de capital
-transformación de póliza
-transmisión
-transmisión del objeto asegurado
+transformacion de poliza
+transmision
+transmision del objeto asegurado
 transparencia financiera, Ley de
 transparencia fiscal
-traslación fiscal
+traslacion fiscal
 traspaso
-traspaso automático
+traspaso automatico
 traspaso interior
 tratamiento de transparencia
-triángulo
-triángulo alcista
-triángulo bajista
+triangulo
+triangulo alcista
+triangulo bajista
 tributo
 triple hora embrujada
 triple top
 trueque
 trust
-túnel
+tunel
 turbulencias financieras
 udibonos
 UEM
@@ -3501,16 +3507,16 @@ underwriters
 unidad colectiva de reserva
 unidad de consumo
 unidad de cuenta
-unidad de producción
-unidades de inversión
+unidad de produccion
+unidades de inversion
 unidad generadora de efectivo
 unidad monetaria
 uniformidad
-unión aduanera
-unión crediticia
-Unión Económica y Monetaria
-Unión Europea
-unión monetaria
+union aduanera
+union crediticia
+Union Economica y Monetaria
+Union Europea
+union monetaria
 unit-linked
 universalidad
 uso comercial
@@ -3528,93 +3534,91 @@ utilidad marginal del dinero
 utilidad ordinal
 utilidad total
 vale
-validación
+validacion
 validar
 valor
-valoración
-valoración del riesgo
-valor actual
-valor actual neto
-valor actuarial presente de las prestaciones prometidas por retiro
-valor agregado
-valor a la par
-valor al cierre
-valor alfa
-valor añadido
+valoracion
+valoracion del riesgo
+actual
+actual neto
+actuarial presente de las prestaciones prometidas por retiro
+agregado
+a la par
+al cierre
+alfa
+añadido
 valorar
-valor asegurable
-valor beta
-valor bursátil
-valor capital
-valor catastral
-valor CIF
-valor compensado
-valor constante
-valor contable
-valor contable de la sociedad
-valor contable de una acción
-valor contable neto
-valor corriente
-valor cotizado
-valor de afección
-valor de caja de la garantía
-valor de cambio
-valor de compra
-valor de liquidación
-valor de mercado
-valor de mercado del capital emitido
-valor depreciado
-valor de realización
-valor de renta fija
-valor de renta variable
-valor de reposición
-valor de reposición nuevo
-valor de rescate
-valor de rescate de la inversión neta
-valor de rescate de un activo
-valor de uso
-valor disponible
-valor efectivo
-valor en cuenta
-valor en custodia
-valor en libros
-valor en prenda
-valor en uso
+asegurable
+beta
+bursatil
+capital
+catastral
+CIF
+compensado
+constante
+contable
+contable de la sociedad
+contable de una accion
+contable neto
+corriente
+cotizado
+afeccion
+caja de la garantia
+cambio
+compra
+liquidacion
+mercado
+mercado del capital emitido
+depreciado
+realizacion
+renta fija
+renta variable
+reposicion
+rescate
+rescate de la inversion neta
+rescate de un activo
+uso
+disponible
+efectivo
+cuenta
+custodia
+libros
+prenda
 valores garantizados
-valor específico de un activo para la entidad
-valor específico de un pasivo para la entidad
-valor facial
-valor histórico
-valor inmovilizado
-valor intrínseco
-valor intrínseco de una inversión mobiliaria
-valor intrínseco de una opción
-valor liquidativo
-valor líquido
-valor mobiliario
-valor negociable
-valor neto realizable
-valor no cotizado
-valor nominal
-valor pignorado
-valor presente
-valor presente descontado
-valor promedio
-valor razonable
-valor realizable
-valor reembolsable al vencimiento
-valor residual
-valor residual garantizado para el arrendador
-valor residual garantizado por el arrendatario
-valor residual no garantizado
-valor seguro
-valor venal
-valuación
+especifico de un activo para la entidad
+especifico de un pasivo para la entidad
+facial
+historico
+inmovilizado
+intrinseco
+intrinseco de una inversion mobiliaria
+intrinseco de una opcion
+liquidativo
+liquido
+mobiliario
+negociable
+neto realizable
+no cotizado
+nominal
+pignorado
+presente
+presente descontado
+promedio
+razonable
+realizable
+reembolsable al vencimiento
+residual
+residual garantizado para el arrendador
+residual garantizado por el arrendatario
+residual no garantizado
+seguro
+venal
+valuacion
 VAN
 VaR
-variación de reservas
+variacion de reservas
 vector de crecimiento
-velocidad de circulación del dinero
+velocidad de circulacion del dinero
 vencimiento
 vencimiento a fecha fija
 vencimiento anticipado
@@ -3622,7 +3626,7 @@ vencimiento del seguro
 vendedor en corto
 vendedor en descubierto
 venta
-venta a crédito
+venta a credito
 venta al descubierto
 venta de las joyas de la corona
 venta discrecional
@@ -3630,29 +3634,29 @@ ventaja absoluta
 ventaja comparativa
 ventajas relacionadas con un activo arrendado
 venta privada de acciones
-verificación
+verificacion
 veto
 viabilidad
-vía ejecutiva
-vida económica
-vida útil
-vida útil de un arrendamiento
+via ejecutiva
+vida economica
+vida util
+vida util de un arrendamiento
 vigencia
 vigencia del seguro
 vigente
 vigilancia de riesgos
-vigilancia estadística previa
+vigilancia estadistica previa
 vinculante
 vitalicio
 vivo
 volatilidad
-volumen de contratación
+volumen de contratacion
 volumen de negocio
 volumen de negocios de una sociedad
 voto
 voz
-vuelta en un día de alcista a bajista
-vuelta en un día de bajista a alcista
+vuelta en un dia de alcista a bajista
+vuelta en un dia de bajista a alcista
 Wall Street
 warrant
 white knight
@@ -3663,13 +3667,13 @@ yankee
 yield
 yo-yo
 zaiteku
-zona de congestión
-zona de expansión
-zona de fluctuación
+zona de congestion
+zona de expansion
+zona de fluctuacion
 zona de libre comercio
 zona de resistencia
-zona económica exclusiva
-zona económica exclusiva española
+zona economica exclusiva
+zona economica exclusiva española
 zona franca
 zona monetaria
 zurupeto
